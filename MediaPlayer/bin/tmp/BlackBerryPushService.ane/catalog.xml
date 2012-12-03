@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.5.0" build="20967" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="net/rim/blackberry/events/PushServiceErrorEvent" mod="1353698508262" signatureChecksum="1190920891" >
+        <def id="net.rim.blackberry.events:PushServiceErrorEvent" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:ErrorEvent" type="i" /> 
+      </script>
+      <script name="net/rim/blackberry/push/InitializationError" mod="1353698508262" signatureChecksum="1862216456" >
+        <def id="net.rim.blackberry.push:InitializationError" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Error" type="i" /> 
+      </script>
+      <script name="net/rim/blackberry/events/PushServiceEvent" mod="1353698508262" signatureChecksum="3043595325" >
+        <def id="net.rim.blackberry.events:PushServiceEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="net/rim/blackberry/events/PushTransportReadyEvent" mod="1353698508262" signatureChecksum="2639562629" >
+        <def id="net.rim.blackberry.events:PushTransportReadyEvent" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="net.rim.blackberry.events:PushServiceEvent" type="i" /> 
+      </script>
+      <script name="_b030245c8efbbf421d61cb21c55c063bcb169732fca2d77675c3f96a6c7c3dab_flash_display_Sprite" mod="1354492602051" signatureChecksum="668826505" >
+        <def id="_b030245c8efbbf421d61cb21c55c063bcb169732fca2d77675c3f96a6c7c3dab_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="net/rim/blackberry/push/PushService" mod="1353698508262" signatureChecksum="1563548527" >
+        <def id="net.rim.blackberry.push:PushService" /> 
+        <dep id="flash.errors:IllegalOperationError" type="e" /> 
+        <dep id="net.rim.blackberry.events:CreateChannelSuccessEvent" type="e" /> 
+        <dep id="net.rim.blackberry.events:PushTransportReadyEvent" type="e" /> 
+        <dep id="net.rim.blackberry.events:PushServiceErrorEvent" type="e" /> 
+        <dep id="ArgumentError" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="Math" type="e" /> 
+        <dep id="net.rim.blackberry.events:PushServiceEvent" type="e" /> 
+        <dep id="net.rim.blackberry.push:InitializationError" type="e" /> 
+        <dep id="net.rim.blackberry.push:PushPayload" type="e" /> 
+        <dep id="qnx.invoke:InvokeAction" type="e" /> 
+        <dep id="net.rim.blackberry.events:CreateChannelSuccessEvent" type="s" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="qnx.invoke:InvokeRequest" type="s" /> 
+        <dep id="net.rim.blackberry.push:PushPayload" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="net/rim/blackberry/events/CreateChannelSuccessEvent" mod="1353698508262" signatureChecksum="1779002438" >
+        <def id="net.rim.blackberry.events:CreateChannelSuccessEvent" /> 
+        <dep id="flash.events:Event" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="net.rim.blackberry.events:PushServiceEvent" type="i" /> 
+      </script>
+      <script name="net/rim/blackberry/push/PushPayload" mod="1353698508262" signatureChecksum="3090116019" >
+        <def id="net.rim.blackberry.push:PushPayload" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="30ce757b6644490d0a704a75b38d5c3fdc433dadb591a75a0020819b96107711"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

@@ -1,0 +1,15 @@
+<extension xmlns="http://ns.adobe.com/air/extension/2.5">
+    <id>qnx.system.QNXDevice</id>
+    <versionNumber>1</versionNumber>
+    <platforms>
+        <platform name="QNX-ARM">
+			<deviceDeployment/>
+        </platform>
+		 <platform name="QNX-x86">
+				<deviceDeployment/>
+	        </platform>
+		<platform name="default">
+			<applicationDeployment/> 
+		</platform>
+    </platforms>
+</extension>

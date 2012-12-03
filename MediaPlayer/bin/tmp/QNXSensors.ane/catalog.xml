@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.5.0" build="20967" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="qnx/sensors/RotationMatrix" mod="1352994363693" signatureChecksum="2053295615" >
+        <def id="qnx.sensors:RotationMatrix" /> 
+        <dep id="qnx.events:RotationMatrixEvent" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="qnx/sensors/LocationManager" mod="1352994363693" signatureChecksum="2505651224" >
+        <def id="qnx.sensors:LocationManager" /> 
+        <dep id="qnx.sensors:GeomagneticField" type="e" /> 
+        <dep id="qnx.sensors:GeomagneticField" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="qnx/sensors/Magnetometer" mod="1352994363693" signatureChecksum="4070686971" >
+        <def id="qnx.sensors:Magnetometer" /> 
+        <dep id="qnx.events:MagnetometerEvent" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="qnx/events/GyroscopeEvent" mod="1331661556365" signatureChecksum="495220879" >
+        <def id="qnx.events:GyroscopeEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="qnx/sensors/GeomagneticField" mod="1352994363693" signatureChecksum="1260406069" >
+        <def id="qnx.sensors:GeomagneticField" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="qnx/sensors/Gyroscope" mod="1352994363693" signatureChecksum="479706183" >
+        <def id="qnx.sensors:Gyroscope" /> 
+        <dep id="qnx.events:GyroscopeEvent" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_d16c5fe04aacccbf130a5e90bbc304955feb380d28a8325f7abbdffece18a54b_flash_display_Sprite" mod="1354492672062" signatureChecksum="3326508481" >
+        <def id="_d16c5fe04aacccbf130a5e90bbc304955feb380d28a8325f7abbdffece18a54b_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="qnx/events/MagnetometerEvent" mod="1331661556365" signatureChecksum="1874432681" >
+        <def id="qnx.events:MagnetometerEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="qnx/events/RotationMatrixEvent" mod="1331661556365" signatureChecksum="3050206237" >
+        <def id="qnx.events:RotationMatrixEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:Event" type="i" /> 
+      </script>
+      <script name="qnx/sensors/SensorAccuracy" mod="1331661556365" signatureChecksum="1037122021" >
+        <def id="qnx.sensors:SensorAccuracy" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="ee26f8b3e29f82c677a2a64dfde6fe7ea37fa0306f4531c72655cb505c5cc5a8"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>

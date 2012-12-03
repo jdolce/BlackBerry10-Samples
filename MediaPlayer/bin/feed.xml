@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"><channel>
+			
+			<lastBuildDate>Thu, 21 Oct 2010 06:41:37 CDT</lastBuildDate>
+			<title>TEDTalks (hd)</title>
+			<link>http://www.ted.com/talks/browse</link>
+			<generator>TED - TED.com</generator>
+			<description>Each year,  the TED (Technology, Entertainment, Design) conference hosts some of the world's most fascinating people: Trusted voices and convention-breaking mavericks, icons and geniuses. These podcasts (also available in audio format) capture the most extraordinary presentations delivered from the TED stage.</description>
+
+			<itunes:subtitle>Each year, the TED (Technology, Entertainment, Design) conference hosts some of the world's most fascinating people: Trusted voices and convention-breaking mavericks, icons and geniuses. These podcasts (also available in audio format) capture the most ext</itunes:subtitle>
+			<itunes:author>TED</itunes:author>
+			<itunes:summary>Each year,  the TED (Technology, Entertainment, Design) conference hosts some of the world's most fascinating people: Trusted voices and convention-breaking mavericks, icons and geniuses. These podcasts (also available in audio format) capture the most extraordinary presentations delivered from the TED stage. </itunes:summary>
+			<language>en</language>
+			<copyright>Creative Commons: http://creativecommons.org/licenses/by-nc-nd/3.0/ </copyright>
+			<itunes:owner>
+
+				<itunes:name>Michael Glass</itunes:name>
+				<itunes:email>contact@ted.com</itunes:email>
+			</itunes:owner>
+			<image>
+				<url>http://ted.streamguys.net/TEDTalksvideo_tile_144.jpg</url>
+				<title>TEDTalks (hd)</title>
+				<link>http://www.ted.com/talks/browse</link>
+
+				<width>144</width>
+				<height>144</height>
+			</image>
+			<itunes:image href="http://video.ted.com/assets/images/itunes/podcast_poster_600x600.jpg" />
+			<category>Science</category>
+			<category>Technology</category>
+			<category>Entertainment</category>
+
+			<category>Design</category>
+			<itunes:category text="Arts">
+				<itunes:category text="Design" />
+			</itunes:category>
+			<itunes:category text="Education">
+				<itunes:category text="Higher Education" />
+			</itunes:category>
+			<itunes:category text="Science &amp; Medicine">
+
+				<itunes:category text="Natural Sciences" />
+			</itunes:category>
+			<itunes:category text="Technology" />
+			<itunes:keywords>TED</itunes:keywords>
+			<itunes:explicit>no</itunes:explicit>
+			<media:rating scheme="urn:simple">nonadult</media:rating><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/TedtalksHD" /><feedburner:info uri="tedtalkshd" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Creative Commons: http://creativecommons.org/licenses/by-nc-nd/3.0/</media:copyright><media:thumbnail url="http://video.ted.com/assets/images/itunes/podcast_poster_600x600.jpg" /><media:keywords>TED</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts/Design</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education/Higher Education</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Science &amp; Medicine/Natural Sciences</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category><item>
+
+					<title>Dianna Cohen: Tough truths about plastic pollution - Dianna Cohen (2010)</title>
+					<itunes:author>Dianna Cohen</itunes:author>
+					<description>Artist Dianna Cohen shares some tough truths about plastic pollution in the ocean and in our lives -- and some thoughts on how to free ourselves from the plastic gyre.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/aA_2QTO-lT4" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Dianna Cohen: Tough truths about plastic pollution</itunes:subtitle>
+					<itunes:summary><![CDATA[Artist Dianna Cohen shares some tough truths about plastic pollution in the ocean and in our lives -- and some thoughts on how to free ourselves from the plastic gyre.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DiannaCohen_2010Z_480.mp4" length="82809848" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/aA_2QTO-lT4/986</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:986</guid>
+					<pubDate>Wed, 20 Oct 2010 11:06:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:18</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DiannaCohen_2010Z_480.mp4" fileSize="82809848" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/208459_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/208459_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/986</feedburner:origLink></item><item>
+					<title>Heribert Watzke: The brain in your gut - Heribert Watzke (2010)</title>
+					<itunes:author>Heribert Watzke</itunes:author>
+
+					<description>Did you know you have functioning neurons in your intestines -- about a hundred million of them? Food scientist Heribert Watzke tells us about the "hidden brain" in our gut and the surprising things it makes us feel.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/IqVEIzzrHwk" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Heribert Watzke: The brain in your gut</itunes:subtitle>
+					<itunes:summary><![CDATA[Did you know you have functioning neurons in your intestines -- about a hundred million of them? Food scientist Heribert Watzke tells us about the "hidden brain" in our gut and the surprising things it makes us feel.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/HeribertWatzke_2010G_480.mp4" length="217363239" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/IqVEIzzrHwk/984</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:984</guid>
+
+					<pubDate>Tue, 19 Oct 2010 08:09:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:14</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/HeribertWatzke_2010G_480.mp4" fileSize="217363239" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/208187_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/208187_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/984</feedburner:origLink></item><item>
+					<title>Jessica Jackley: Poverty, money -- and love - Jessica Jackley (2010)</title>
+					<itunes:author>Jessica Jackley</itunes:author>
+					<description>What do you think of people in poverty? Maybe what Jessica Jackley once did: "they" need "our" help, in the form of a few coins in a jar. The co-founder of Kiva.org talks about how her attitude changed -- and how her work with microloans has brought new power to people who live on a few dollars a day.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/cKsV-FIoKkI" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Jessica Jackley: Poverty, money -- and love</itunes:subtitle>
+					<itunes:summary><![CDATA[What do you think of people in poverty? Maybe what Jessica Jackley once did: "they" need "our" help, in the form of a few coins in a jar. The co-founder of Kiva.org talks about how her attitude changed -- and how her work with microloans has brought new power to people who live on a few dollars a day.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JessicaJackley_2010G_480.mp4" length="312998573" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/cKsV-FIoKkI/983</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:983</guid>
+					<pubDate>Mon, 18 Oct 2010 09:27:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:33</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JessicaJackley_2010G_480.mp4" fileSize="312998573" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/207421_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/207421_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/983</feedburner:origLink></item><item>
+
+					<title>Ze Frank's web playroom - Ze Frank (2010)</title>
+					<itunes:author>Ze Frank</itunes:author>
+					<description>On the web, a new "Friend" may be just a click away, but true connection is harder to find and express. Ze Frank presents a medley of zany Internet toys that require deep participation -- and reward it with something more nourishing. You're invited, if you promise you'll share.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/TQr_tsBHSto" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Ze Frank's web playroom</itunes:subtitle>
+					<itunes:summary><![CDATA[On the web, a new "Friend" may be just a click away, but true connection is harder to find and express. Ze Frank presents a medley of zany Internet toys that require deep participation -- and reward it with something more nourishing. You're invited, if you promise you'll share.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ZeFrank_2010G_480.mp4" length="283153401" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/TQr_tsBHSto/981</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:981</guid>
+					<pubDate>Fri, 15 Oct 2010 08:53:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:00</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ZeFrank_2010G_480.mp4" fileSize="283153401" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/207122_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/207122_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/981</feedburner:origLink></item><item>
+					<title>Natalie Jeremijenko: The art of the eco-mindshift - Natalie Jeremijenko (2009)</title>
+					<itunes:author>Natalie Jeremijenko</itunes:author>
+
+					<description>Natalie Jeremijenko's unusual lab puts art to work, and addresses environmental woes by combining engineering know-how with public art and a team of volunteers. These real-life experiments include: Walking tadpoles, texting "fish," planting fire-hydrant gardens and more.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/2frpPRbAjAU" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Natalie Jeremijenko: The art of the eco-mindshift</itunes:subtitle>
+					<itunes:summary><![CDATA[Natalie Jeremijenko's unusual lab puts art to work, and addresses environmental woes by combining engineering know-how with public art and a team of volunteers. These real-life experiments include: Walking tadpoles, texting "fish," planting fire-hydrant gardens and more.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/NatalieJeremijenko_2009P_480.mp4" length="320832418" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/2frpPRbAjAU/980</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:980</guid>
+
+					<pubDate>Thu, 14 Oct 2010 09:15:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:50</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/NatalieJeremijenko_2009P_480.mp4" fileSize="320832418" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/206853_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/206853_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/980</feedburner:origLink></item><item>
+					<title>Peter Haas: Haiti's disaster of engineering - Peter Haas (2010)</title>
+					<itunes:author>Peter Haas</itunes:author>
+					<description>"Haiti was not a natural disaster," says TED Fellow Peter Haas: "It was a disaster of engineering." As the country rebuilds after January's deadly quake, are bad old building practices creating another ticking time bomb? Haas's group, AIDG, is helping Haiti's builders learn modern building and engineering practices, to assemble a strong country brick by brick.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/xzhaQu-AHoE" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Peter Haas: Haiti's disaster of engineering</itunes:subtitle>
+					<itunes:summary><![CDATA["Haiti was not a natural disaster," says TED Fellow Peter Haas: "It was a disaster of engineering." As the country rebuilds after January's deadly quake, are bad old building practices creating another ticking time bomb? Haas's group, AIDG, is helping Haiti's builders learn modern building and engineering practices, to assemble a strong country brick by brick.
+]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/PeterHaas_2010G_480.mp4" length="145805723" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/xzhaQu-AHoE/978</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:978</guid>
+					<pubDate>Wed, 13 Oct 2010 08:59:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:08:30</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/PeterHaas_2010G_480.mp4" fileSize="145805723" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/206554_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/206554_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/978</feedburner:origLink></item><item>
+
+					<title>Melinda French Gates: What nonprofits can learn from Coca-Cola - Melinda French Gates (2010)</title>
+					<itunes:author>Melinda French Gates</itunes:author>
+					<description>At TEDxChange, Melinda Gates makes a provocative case for nonprofits taking a cue from corporations such as Coca-Cola, whose plugged-in, global network of marketers and distributors ensures that every remote village wants -- and can get -- a Coke. Why shouldn't this work for condoms, sanitation, vaccinations too?&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/apeeVjaQ0HM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Melinda French Gates: What nonprofits can learn from Coca-Cola</itunes:subtitle>
+					<itunes:summary><![CDATA[At TEDxChange, Melinda Gates makes a provocative case for nonprofits taking a cue from corporations such as Coca-Cola, whose plugged-in, global network of marketers and distributors ensures that every remote village wants -- and can get -- a Coke. Why shouldn't this work for condoms, sanitation, vaccinations too?]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MelindaGates_2010X_480.mp4" length="246842958" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/apeeVjaQ0HM/977</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:977</guid>
+					<pubDate>Tue, 12 Oct 2010 08:44:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:28</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MelindaGates_2010X_480.mp4" fileSize="246842958" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/206290_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/206290_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/977</feedburner:origLink></item><item>
+					<title>Stefano Mancuso: The roots of plant intelligence - Stefano Mancuso (2010)</title>
+					<itunes:author>Stefano Mancuso</itunes:author>
+
+					<description>Plants behave in some oddly intelligent ways: fighting predators, maximizing food opportunities ... But can we think of them as actually having a form of intelligence of their own? Italian botanist Stefano Mancuso presents intriguing evidence.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/kzMVx6gVor0" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Stefano Mancuso: The roots of plant intelligence</itunes:subtitle>
+					<itunes:summary><![CDATA[Plants behave in some oddly intelligent ways: fighting predators, maximizing food opportunities ... But can we think of them as actually having a form of intelligence of their own? Italian botanist Stefano Mancuso presents intriguing evidence.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/StefanoMancuso_2010G_480.mp4" length="242298734" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/kzMVx6gVor0/976</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:976</guid>
+
+					<pubDate>Mon, 11 Oct 2010 08:55:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:13:50</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/StefanoMancuso_2010G_480.mp4" fileSize="242298734" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/205649_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/205649_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/976</feedburner:origLink></item><item>
+					<title>Stacey Kramer: The best gift I ever survived - Stacey Kramer (2010)</title>
+					<itunes:author>Stacey Kramer</itunes:author>
+					<description>Stacey Kramer offers a moving, personal, 3-minute parable that shows how an unwanted experience -- frightening, traumatic, costly -- can turn out to be a priceless gift.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/q0ndqDlG7bo" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Stacey Kramer: The best gift I ever survived</itunes:subtitle>
+					<itunes:summary><![CDATA[Stacey Kramer offers a moving, personal, 3-minute parable that shows how an unwanted experience -- frightening, traumatic, costly -- can turn out to be a priceless gift.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/StaceyKramer_2010_480.mp4" length="104143073" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/q0ndqDlG7bo/975</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:975</guid>
+					<pubDate>Fri, 08 Oct 2010 08:49:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:03:17</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/StaceyKramer_2010_480.mp4" fileSize="104143073" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/203372_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/203372_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/975</feedburner:origLink></item><item>
+
+					<title>Hans Rosling: The good news of the decade? - Hans Rosling (2010)</title>
+					<itunes:author>Hans Rosling</itunes:author>
+					<description>Hans Rosling reframes 10 years of UN data with his spectacular visuals, lighting up an astonishing -- mostly unreported -- piece of front-page-worthy good news: We're winning the war against child mortality. Along the way, he debunks one flawed approach to stats that blots out such vital stories.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/D4QHuqvzsIw" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Hans Rosling: The good news of the decade?</itunes:subtitle>
+					<itunes:summary><![CDATA[Hans Rosling reframes 10 years of UN data with his spectacular visuals, lighting up an astonishing -- mostly unreported -- piece of front-page-worthy good news: We're winning the war against child mortality. Along the way, he debunks one flawed approach to stats that blots out such vital stories.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/HansRosling_2010X_480.mp4" length="225126146" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/D4QHuqvzsIw/974</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:974</guid>
+					<pubDate>Thu, 07 Oct 2010 09:12:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:34</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/HansRosling_2010X_480.mp4" fileSize="225126146" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/205077_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/205077_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/974</feedburner:origLink></item><item>
+					<title>Barbara Block: Tagging tuna in the deep ocean - Barbara Block (2010)</title>
+					<itunes:author>Barbara Block</itunes:author>
+
+					<description>Tuna are ocean athletes -- fast, far-ranging predators whose habits we're just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/Uus0vOY5iQc" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Barbara Block: Tagging tuna in the deep ocean</itunes:subtitle>
+					<itunes:summary><![CDATA[Tuna are ocean athletes -- fast, far-ranging predators whose habits we're just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/BarbaraBlock_2010Z_480.mp4" length="257831059" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/Uus0vOY5iQc/973</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:973</guid>
+
+					<pubDate>Wed, 06 Oct 2010 08:53:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:20:06</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/BarbaraBlock_2010Z_480.mp4" fileSize="257831059" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/204749_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/204749_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/973</feedburner:origLink></item><item>
+					<title>Tim Jackson's economic reality check - Tim Jackson (2010)</title>
+					<itunes:author>Tim Jackson</itunes:author>
+					<description>As the world faces recession, climate change, inequity and more, Tim Jackson delivers a piercing challenge to established economic principles, explaining how we might stop feeding the crises and start investing in our future.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/4aFUmkP3TJI" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Tim Jackson's economic reality check</itunes:subtitle>
+					<itunes:summary><![CDATA[As the world faces recession, climate change, inequity and more, Tim Jackson delivers a piercing challenge to established economic principles, explaining how we might stop feeding the crises and start investing in our future.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/TimJackson_2010G_480.mp4" length="332811233" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/4aFUmkP3TJI/972</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:972</guid>
+					<pubDate>Tue, 05 Oct 2010 09:19:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:20:23</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/TimJackson_2010G_480.mp4" fileSize="332811233" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/204601_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/204601_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/972</feedburner:origLink></item><item>
+
+					<title>Eben Bayer: Are mushrooms the new plastic? - Eben Bayer (2010)</title>
+					<itunes:author>Eben Bayer</itunes:author>
+					<description>Product designer Eben Bayer reveals his recipe for a new, fungus-based packaging material that protects fragile stuff like furniture, plasma screens -- and the environment.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/aMmuL0l-HQg" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Eben Bayer: Are mushrooms the new plastic?</itunes:subtitle>
+					<itunes:summary><![CDATA[Product designer Eben Bayer reveals his recipe for a new, fungus-based packaging material that protects fragile stuff like furniture, plasma screens -- and the environment.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/EbenBayer_2010G_480.mp4" length="119685289" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/aMmuL0l-HQg/971</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:971</guid>
+					<pubDate>Mon, 04 Oct 2010 09:00:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:05</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/EbenBayer_2010G_480.mp4" fileSize="119685289" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/203381_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/203381_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/971</feedburner:origLink></item><item>
+					<title>Mechai Viravaidya: How Mr. Condom made Thailand a better place - Mechai Viravaidya (2010)</title>
+					<itunes:author>Mechai Viravaidya</itunes:author>
+
+					<description>At TEDxChange, Thailand's "Mr. Condom," Mechai Viravaidya, walks us through the country's bold plan to raise its standard of living, starting in the 1970s. First step: population control. And that means a lot of frank, funny -- and very effective -- talk about condoms.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/xbnQpmwxs9A" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Mechai Viravaidya: How Mr. Condom made Thailand a better place</itunes:subtitle>
+					<itunes:summary><![CDATA[At TEDxChange, Thailand's "Mr. Condom," Mechai Viravaidya, walks us through the country's bold plan to raise its standard of living, starting in the 1970s. First step: population control. And that means a lot of frank, funny -- and very effective -- talk about condoms.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MechaiViravaidya_2010X_480.mp4" length="179593209" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/xbnQpmwxs9A/970</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:970</guid>
+
+					<pubDate>Thu, 30 Sep 2010 08:51:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:13:50</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MechaiViravaidya_2010X_480.mp4" fileSize="179593209" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/203305_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/203305_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/970</feedburner:origLink></item><item>
+					<title>Inge Missmahl brings peace to the minds of Afghanistan - Inge Missmahl (2010)</title>
+					<itunes:author>Inge Missmahl</itunes:author>
+					<description>When Jungian analyst Inge Missmahl visited Afghanistan, she saw the inner wounds of war -- widespread despair, trauma and depression. And yet, in this county of 30 million people, there were only two dozen psychiatrists. Missmahl talks about her work helping to build the country's system of psychosocial counseling, promoting both individual and, perhaps, national healing.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/qyLWeK8cSjg" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Inge Missmahl brings peace to the minds of Afghanistan</itunes:subtitle>
+					<itunes:summary><![CDATA[When Jungian analyst Inge Missmahl visited Afghanistan, she saw the inner wounds of war -- widespread despair, trauma and depression. And yet, in this county of 30 million people, there were only two dozen psychiatrists. Missmahl talks about her work helping to build the country's system of psychosocial counseling, promoting both individual and, perhaps, national healing.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/IngeMissmahl_2010G_480.mp4" length="195791191" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/qyLWeK8cSjg/968</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:968</guid>
+					<pubDate>Wed, 29 Sep 2010 08:24:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:10:41</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/IngeMissmahl_2010G_480.mp4" fileSize="195791191" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/202850_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/202850_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/968</feedburner:origLink></item><item>
+
+					<title>Sebastian Seung: I am my connectome - Sebastian Seung (2010)</title>
+					<itunes:author>Sebastian Seung</itunes:author>
+					<description>Sebastian Seung is mapping a massively ambitious new model of the brain that focuses on the connections between each neuron. He calls it our "connectome," and it's as individual as our genome -- and understanding it could open a new way to understand our brains and our minds.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/7QZm6UhRiZw" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Sebastian Seung: I am my connectome</itunes:subtitle>
+					<itunes:summary><![CDATA[Sebastian Seung is mapping a massively ambitious new model of the brain that focuses on the connections between each neuron. He calls it our "connectome," and it's as individual as our genome -- and understanding it could open a new way to understand our brains and our minds.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SebastianSeung_2010G_480.mp4" length="318592491" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/7QZm6UhRiZw/967</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:967</guid>
+					<pubDate>Tue, 28 Sep 2010 08:45:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:25</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SebastianSeung_2010G_480.mp4" fileSize="318592491" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/202580_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/202580_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/967</feedburner:origLink></item><item>
+					<title>Gary Wolf: The quantified self - Gary Wolf (2010)</title>
+					<itunes:author>Gary Wolf</itunes:author>
+
+					<description>At TED@Cannes, Gary Wolf gives a 5-min intro to an intriguing new pastime: using mobile apps and always-on gadgets to track and analyze your body, mood, diet, spending -- just about everything in daily life you can measure -- in gloriously geeky detail.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/w0GX_3J6ySE" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Gary Wolf: The quantified self</itunes:subtitle>
+					<itunes:summary><![CDATA[At TED@Cannes, Gary Wolf gives a 5-min intro to an intriguing new pastime: using mobile apps and always-on gadgets to track and analyze your body, mood, diet, spending -- just about everything in daily life you can measure -- in gloriously geeky detail.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/GaryWolf_2010S_480.mp4" length="70533774" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/w0GX_3J6ySE/966</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:966</guid>
+
+					<pubDate>Mon, 27 Sep 2010 08:33:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:10</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/GaryWolf_2010S_480.mp4" fileSize="70533774" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/201789_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/201789_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/966</feedburner:origLink></item><item>
+					<title>Julian Treasure: Shh! Sound health in 8 steps - Julian Treasure (2010)</title>
+					<itunes:author>Julian Treasure</itunes:author>
+					<description>Julian Treasure says our increasingly noisy world is gnawing away at our mental health -- even costing lives. He lays out an 8-step plan to soften this sonic assault (starting with those cheap earbuds) and restore our relationship with sound.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/j-GjC9qhMzA" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Julian Treasure: Shh! Sound health in 8 steps</itunes:subtitle>
+					<itunes:summary><![CDATA[Julian Treasure says our increasingly noisy world is gnawing away at our mental health -- even costing lives. He lays out an 8-step plan to soften this sonic assault (starting with those cheap earbuds) and restore our relationship with sound.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JulianTreasure_2010GU_480.mp4" length="97881680" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/j-GjC9qhMzA/965</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:965</guid>
+					<pubDate>Thu, 23 Sep 2010 13:55:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:07:14</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JulianTreasure_2010GU_480.mp4" fileSize="97881680" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/201524_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/201524_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/965</feedburner:origLink></item><item>
+
+					<title>Fabian Hemmert: The shape-shifting future of the mobile phone - Fabian Hemmert (2010)</title>
+					<itunes:author>Fabian Hemmert</itunes:author>
+					<description>At TEDxBerlin, Fabian Hemmert demos one future of the mobile phone -- a shape-shifting and weight-shifting handset that "displays" information nonvisually, offering a delightfully intuitive way to communicate.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/Xu7XEIRpFzE" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Fabian Hemmert: The shape-shifting future of the mobile phone</itunes:subtitle>
+					<itunes:summary><![CDATA[At TEDxBerlin, Fabian Hemmert demos one future of the mobile phone -- a shape-shifting and weight-shifting handset that "displays" information nonvisually, offering a delightfully intuitive way to communicate.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/FabianHemmert_2009X_480.mp4" length="67031405" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/Xu7XEIRpFzE/964</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:964</guid>
+					<pubDate>Thu, 23 Sep 2010 08:47:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:04:15</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/FabianHemmert_2009X_480.mp4" fileSize="67031405" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/201253_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/201253_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/964</feedburner:origLink></item><item>
+					<title>Annie Lennox: Why I am an HIV/AIDS activist   - Annie Lennox (2010)</title>
+					<itunes:author>Annie Lennox</itunes:author>
+
+					<description>For the last eight years, pop singer Annie Lennox has devoted the majority of her time to her SING campaign, raising awareness and money to combat HIV/AIDS. She shares the experiences that have inspired her, from working with Nelson Mandela to meeting a little African girl in a desperate situation.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/v7W-8Va7tTA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Annie Lennox: Why I am an HIV/AIDS activist  </itunes:subtitle>
+					<itunes:summary><![CDATA[For the last eight years, pop singer Annie Lennox has devoted the majority of her time to her SING campaign, raising awareness and money to combat HIV/AIDS. She shares the experiences that have inspired her, from working with Nelson Mandela to meeting a little African girl in a desperate situation.
+]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/AnnieLennox_2010G_480.mp4" length="131647188" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/v7W-8Va7tTA/963</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:963</guid>
+
+					<pubDate>Wed, 22 Sep 2010 09:03:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:16</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/AnnieLennox_2010G_480.mp4" fileSize="131647188" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/201134_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/201134_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/963</feedburner:origLink></item><item>
+					<title>Mitchell Besser: Mothers helping mothers fight HIV - Mitchell Besser (2010)</title>
+					<itunes:author>Mitchell Besser</itunes:author>
+					<description>In sub-Saharan Africa, HIV infections are more prevalent and doctors scarcer than anywhere else in the world. With a lack of medical professionals, Mitchell Besser enlisted the help of his patients to create mothers2mothers -- an extraordinary network of HIV-positive women whose support for each other is changing and saving lives.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/MSCy989glVw" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Mitchell Besser: Mothers helping mothers fight HIV</itunes:subtitle>
+					<itunes:summary><![CDATA[In sub-Saharan Africa, HIV infections are more prevalent and doctors scarcer than anywhere else in the world. With a lack of medical professionals, Mitchell Besser enlisted the help of his patients to create mothers2mothers -- an extraordinary network of HIV-positive women whose support for each other is changing and saving lives.
+]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MitchellBesser_2010G_480.mp4" length="265912189" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/MSCy989glVw/962</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:962</guid>
+					<pubDate>Wed, 22 Sep 2010 08:54:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:30</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MitchellBesser_2010G_480.mp4" fileSize="265912189" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/201130_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/201130_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/962</feedburner:origLink></item><item>
+
+					<title>Steven Johnson: Where good ideas come from - Steven Johnson (2010)</title>
+					<itunes:author>Steven Johnson</itunes:author>
+					<description>People often credit their ideas to individual "Eureka!" moments. But Steven Johnson shows how history tells a different story. His fascinating tour takes us from the "liquid networks" of London's coffee houses to Charles Darwin's long, slow hunch to today's high-velocity web.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/y4opdU8keBo" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Steven Johnson: Where good ideas come from</itunes:subtitle>
+					<itunes:summary><![CDATA[People often credit their ideas to individual "Eureka!" moments. But Steven Johnson shows how history tells a different story. His fascinating tour takes us from the "liquid networks" of London's coffee houses to Charles Darwin's long, slow hunch to today's high-velocity web.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/StevenJohnson_2010G_480.mp4" length="265649206" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/y4opdU8keBo/961</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:961</guid>
+					<pubDate>Tue, 21 Sep 2010 08:50:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:45</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/StevenJohnson_2010G_480.mp4" fileSize="265649206" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/200758_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/200758_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/961</feedburner:origLink></item><item>
+					<title>Christien Meindertsma: How pig parts make the world turn - Christien Meindertsma (2010)</title>
+					<itunes:author>Christien Meindertsma</itunes:author>
+
+					<description>Christien Meindertsma, author of "Pig 05049" looks at the astonishing afterlife of the ordinary pig, parts of which make their way into at least 185 non-pork products, from bullets to artificial hearts.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/qeNCarUneuE" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Christien Meindertsma: How pig parts make the world turn</itunes:subtitle>
+					<itunes:summary><![CDATA[Christien Meindertsma, author of "Pig 05049" looks at the astonishing afterlife of the ordinary pig, parts of which make their way into at least 185 non-pork products, from bullets to artificial hearts.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ChristienMeindertsma_2010G_480.mp4" length="1157855277" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/qeNCarUneuE/960</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:960</guid>
+
+					<pubDate>Mon, 20 Sep 2010 08:43:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:08:54</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ChristienMeindertsma_2010G_480.mp4" fileSize="1157855277" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/200449_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/200449_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/960</feedburner:origLink></item><item>
+					<title>Caroline Phillips: Hurdy-gurdy for beginners - Caroline Phillips (2010)</title>
+					<itunes:author>Caroline Phillips</itunes:author>
+					<description>Caroline Phillips cranks out tunes on a seldom-heard folk instrument: the hurdy-gurdy, a.k.a. the wheel fiddle. A searching, Basque melody follows her fun lesson on its unique anatomy and 1,000-year history.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/F6IdpE84p5M" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Caroline Phillips: Hurdy-gurdy for beginners</itunes:subtitle>
+					<itunes:summary><![CDATA[Caroline Phillips cranks out tunes on a seldom-heard folk instrument: the hurdy-gurdy, a.k.a. the wheel fiddle. A searching, Basque melody follows her fun lesson on its unique anatomy and 1,000-year history.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CarolinePhillips_2010G_480.mp4" length="131228361" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/F6IdpE84p5M/959</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:959</guid>
+					<pubDate>Fri, 17 Sep 2010 08:29:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:41</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CarolinePhillips_2010G_480.mp4" fileSize="131228361" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/199604_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/199604_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/959</feedburner:origLink></item><item>
+
+					<title>Nicholas Christakis: How social networks predict epidemics - Nicholas Christakis (2010)</title>
+					<itunes:author>Nicholas Christakis</itunes:author>
+					<description>After mapping humans' intricate social networks, Nicholas Christakis and colleague James Fowler began investigating how this information could better our lives. Now, he reveals his hot-off-the-press findings: These networks can be used to detect epidemics earlier than ever, from the spread of innovative ideas to risky behaviors to viruses (like H1N1).&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/yfMoHfyzhUo" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Nicholas Christakis: How social networks predict epidemics</itunes:subtitle>
+					<itunes:summary><![CDATA[After mapping humans' intricate social networks, Nicholas Christakis and colleague James Fowler began investigating how this information could better our lives. Now, he reveals his hot-off-the-press findings: These networks can be used to detect epidemics earlier than ever, from the spread of innovative ideas to risky behaviors to viruses (like H1N1). ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/NicholasChristakis_2010S_480.mp4" length="258506498" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/yfMoHfyzhUo/958</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:958</guid>
+					<pubDate>Thu, 16 Sep 2010 08:55:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:54</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/NicholasChristakis_2010S_480.mp4" fileSize="258506498" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/199262_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/199262_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/958</feedburner:origLink></item><item>
+					<title>Jessa Gamble: Our natural sleep cycle - Jessa Gamble (2010)</title>
+					<itunes:author>Jessa Gamble</itunes:author>
+
+					<description>In today's world, balancing school, work, kids and more, most of us can only hope for the recommended eight hours of sleep. Examining the science behind our body's internal clock, Jessa Gamble reveals the surprising and substantial program of rest we should be observing.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/snVeoYpHaWA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Jessa Gamble: Our natural sleep cycle</itunes:subtitle>
+					<itunes:summary><![CDATA[In today's world, balancing school, work, kids and more, most of us can only hope for the recommended eight hours of sleep. Examining the science behind our body's internal clock, Jessa Gamble reveals the surprising and substantial program of rest we should be observing.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JessaGamble_2010GU_480.mp4" length="65031908" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/snVeoYpHaWA/957</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:957</guid>
+
+					<pubDate>Wed, 15 Sep 2010 09:04:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:04:01</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JessaGamble_2010GU_480.mp4" fileSize="65031908" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/198859_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/198859_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/957</feedburner:origLink></item><item>
+					<title>Chris Anderson: How web video powers global innovation - Chris Anderson (TED) (2010)</title>
+					<itunes:author>Chris Anderson (TED)</itunes:author>
+					<description>TED's Chris Anderson says the rise of web video is driving a worldwide phenomenon he calls Crowd Accelerated Innovation -- a self-fueling cycle of learning that could be as significant as the invention of print. But to tap into its power, organizations will need to embrace radical openness. And for TED, it means the dawn of a whole new chapter ...&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/2Ni7AKWCbuw" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Chris Anderson: How web video powers global innovation</itunes:subtitle>
+					<itunes:summary><![CDATA[TED's Chris Anderson says the rise of web video is driving a worldwide phenomenon he calls Crowd Accelerated Innovation -- a self-fueling cycle of learning that could be as significant as the invention of print. But to tap into its power, organizations will need to embrace radical openness. And for TED, it means the dawn of a whole new chapter ...]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ChrisAnderson_2010G_480.mp4" length="273838449" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/2Ni7AKWCbuw/955</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:955</guid>
+					<pubDate>Tue, 14 Sep 2010 07:42:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:53</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ChrisAnderson_2010G_480.mp4" fileSize="273838449" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/198626_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/198626_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/955</feedburner:origLink></item><item>
+
+					<title>Rob Dunbar: Discovering ancient climates in oceans and ice - Rob Dunbar (2010)</title>
+					<itunes:author>Rob Dunbar</itunes:author>
+					<description>Rob Dunbar hunts for data on our climate from 12,000 years ago, finding clues inside ancient seabeds and corals and inside ice sheets. His work is vital in setting baselines for fixing our current climate -- and in tracking the rise of deadly ocean acidification.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/w7ufOEe7_XE" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Rob Dunbar: Discovering ancient climates in oceans and ice</itunes:subtitle>
+					<itunes:summary><![CDATA[Rob Dunbar hunts for data on our climate from 12,000 years ago, finding clues inside ancient seabeds and corals and inside ice sheets. His work is vital in setting baselines for fixing our current climate -- and in tracking the rise of deadly ocean acidification.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/RobDunbar_2010Z_480.mp4" length="238289934" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/w7ufOEe7_XE/954</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:954</guid>
+					<pubDate>Mon, 13 Sep 2010 08:26:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:14</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/RobDunbar_2010Z_480.mp4" fileSize="238289934" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/197989_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/197989_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/954</feedburner:origLink></item><item>
+					<title>Ben Cameron: The true power of the performing arts - Ben Cameron (2010)</title>
+					<itunes:author>Ben Cameron</itunes:author>
+
+					<description>Arts administrator and live-theater fan Ben Cameron looks at the state of the live arts -- asking: How can the magic of live theater, live music, live dance compete with the always-on Internet? At TEDxYYC, he offers a bold look forward.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/C-MVQ1GRABM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Ben Cameron: The true power of the performing arts</itunes:subtitle>
+					<itunes:summary><![CDATA[Arts administrator and live-theater fan Ben Cameron looks at the state of the live arts -- asking: How can the magic of live theater, live music, live dance compete with the always-on Internet? At TEDxYYC, he offers a bold look forward.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/BenCameron_2010X_480.mp4" length="280750554" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/C-MVQ1GRABM/952</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:952</guid>
+
+					<pubDate>Fri, 10 Sep 2010 08:38:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:12:44</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/BenCameron_2010X_480.mp4" fileSize="280750554" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/197744_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/197744_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/952</feedburner:origLink></item><item>
+					<title>Carne Ross: An independent diplomat - Carne Ross (2009)</title>
+					<itunes:author>Carne Ross</itunes:author>
+					<description>After 15 years in the British diplomatic corps, Carne Ross became a "freelance diplomat," running a bold nonprofit that gives small, developing and yet-unrecognized nations a voice in international relations. At the BIF-5 conference, he calls for a new kind of diplomacy that gives voice to small countries, that works with changing boundaries and that welcomes innovation.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/4VO7k1Ryino" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Carne Ross: An independent diplomat</itunes:subtitle>
+					<itunes:summary><![CDATA[After 15 years in the British diplomatic corps, Carne Ross became a "freelance diplomat," running a bold nonprofit that gives small, developing and yet-unrecognized nations a voice in international relations. At the BIF-5 conference, he calls for a new kind of diplomacy that gives voice to small countries, that works with changing boundaries and that welcomes innovation.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CarneRoss_2009P_480.mp4" length="495227852" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/4VO7k1Ryino/951</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:951</guid>
+					<pubDate>Thu, 09 Sep 2010 08:55:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:20:38</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CarneRoss_2009P_480.mp4" fileSize="495227852" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/197439_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/197439_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/951</feedburner:origLink></item><item>
+
+					<title>Alwar Balasubramaniam: Art of substance and absence - Alwar Balasubramaniam (2009)</title>
+					<itunes:author>Alwar Balasubramaniam</itunes:author>
+					<description>Alwar Balasubramaniam's sculpture plays with time, shape, shadow, perspective: four tricky sensations that can reveal -- or conceal -- what's really out there. At TEDIndia, the artist shows slides of his extraordinary installations.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/PZsNJLpxTHY" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Alwar Balasubramaniam: Art of substance and absence</itunes:subtitle>
+					<itunes:summary><![CDATA[Alwar Balasubramaniam's sculpture plays with time, shape, shadow, perspective: four tricky sensations that can reveal -- or conceal -- what's really out there. At TEDIndia, the artist shows slides of his extraordinary installations.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/AlwarBalasubramaniam_2009I_480.mp4" length="245442648" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/PZsNJLpxTHY/950</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:950</guid>
+					<pubDate>Wed, 08 Sep 2010 08:38:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:51</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/AlwarBalasubramaniam_2009I_480.mp4" fileSize="245442648" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/197283_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/197283_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/950</feedburner:origLink></item><item>
+					<title>Sugata Mitra: The child-driven education - Sugata Mitra (2010)</title>
+					<itunes:author>Sugata Mitra</itunes:author>
+
+					<description>Education scientist Sugata Mitra tackles one of the greatest problems of education -- the best teachers and schools don't exist where they're needed most. In a series of real-life experiments from New Delhi to South Africa to Italy, he gave kids self-supervised access to the web and saw results that could revolutionize how we think about teaching.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/isYV17907rk" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Sugata Mitra: The child-driven education</itunes:subtitle>
+					<itunes:summary><![CDATA[Education scientist Sugata Mitra tackles one of the greatest problems of education -- the best teachers and schools don't exist where they're needed most. In a series of real-life experiments from New Delhi to South Africa to Italy, he gave kids self-supervised access to the web and saw results that could revolutionize how we think about teaching.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SugataMitra_2010G_480.mp4" length="260780657" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/isYV17907rk/949</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:949</guid>
+
+					<pubDate>Tue, 07 Sep 2010 09:11:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:13</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SugataMitra_2010G_480.mp4" fileSize="260780657" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/196087_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/196087_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/949</feedburner:origLink></item><item>
+					<title>Rachel Sussman: The world's oldest living things - Rachel Sussman (2010)</title>
+					<itunes:author>Rachel Sussman</itunes:author>
+					<description>Rachel Sussman shows photographs of the world's oldest continuously living organisms -- from 2,000-year-old brain coral off Tobago's coast to an "underground forest" in South Africa that has lived since before the dawn of agriculture.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/-H0nRVW1XtQ" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Rachel Sussman: The world's oldest living things</itunes:subtitle>
+					<itunes:summary><![CDATA[Rachel Sussman shows photographs of the world's oldest continuously living organisms -- from 2,000-year-old brain coral off Tobago's coast to an "underground forest" in South Africa that has lived since before the dawn of agriculture.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/RachelSussman_2010G_480.mp4" length="0" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/-H0nRVW1XtQ/948</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:948</guid>
+					<pubDate>Fri, 03 Sep 2010 08:52:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:14:08</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/RachelSussman_2010G_480.mp4" fileSize="0" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/195843_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/195843_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/948</feedburner:origLink></item><item>
+
+					<title>Derek Sivers: Keep your goals to yourself - Derek Sivers (2010)</title>
+					<itunes:author>Derek Sivers</itunes:author>
+					<description>After hitting on a brilliant new life plan, our first instinct is to tell someone, but Derek Sivers says it's better to keep goals secret. He presents research stretching as far back as the 1920s to show why people who talk about their ambitions may be less likely to achieve them.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/HIh4boym3I8" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Derek Sivers: Keep your goals to yourself</itunes:subtitle>
+					<itunes:summary><![CDATA[After hitting on a brilliant new life plan, our first instinct is to tell someone, but Derek Sivers says it's better to keep goals secret. He presents research stretching as far back as the 1920s to show why people who talk about their ambitions may be less likely to achieve them.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DerekSivers_2010G_480.mp4" length="46777582" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/HIh4boym3I8/947</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:947</guid>
+					<pubDate>Thu, 02 Sep 2010 08:47:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:03:15</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DerekSivers_2010G_480.mp4" fileSize="46777582" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/195575_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/195575_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/947</feedburner:origLink></item><item>
+					<title>His Holiness the Karmapa: The technology of the heart - His Holiness the Karmapa (2009)</title>
+					<itunes:author>His Holiness the Karmapa</itunes:author>
+
+					<description>His Holiness the Karmapa talks about how he was discovered to be the reincarnation of a revered figure in Tibetan Buddhism. In telling his story, he urges us to work on not just technology and design, but the technology and design of the heart. He is translated onstage by Tyler Dewar.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/b2cRKPgXcsA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>His Holiness the Karmapa: The technology of the heart</itunes:subtitle>
+					<itunes:summary><![CDATA[His Holiness the Karmapa talks about how he was discovered to be the reincarnation of a revered figure in Tibetan Buddhism. In telling his story, he urges us to work on not just technology and design, but the technology and design of the heart. He is translated onstage by Tyler Dewar.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/HisHolinessTheKarmapa_2009I_480.mp4" length="380463680" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/b2cRKPgXcsA/946</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:946</guid>
+
+					<pubDate>Wed, 01 Sep 2010 08:48:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:25:23</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/HisHolinessTheKarmapa_2009I_480.mp4" fileSize="380463680" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/195248_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/195248_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/946</feedburner:origLink></item><item>
+					<title>Johan Rockstrom: Let the environment guide our development - Johan Rockstrom (2010)</title>
+					<itunes:author>Johan Rockstrom</itunes:author>
+					<description>Human growth has strained the Earth's resources, but as Johan Rockstrom reminds us, our advances also give us the science to recognize this and change behavior. His research has found nine "planetary boundaries" that can guide us in protecting our planet's many overlapping ecosystems.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/6Cz0Inx-CDA" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Johan Rockstrom: Let the environment guide our development</itunes:subtitle>
+					<itunes:summary><![CDATA[Human growth has strained the Earth's resources, but as Johan Rockstrom reminds us, our advances also give us the science to recognize this and change behavior. His research has found nine "planetary boundaries" that can guide us in protecting our planet's many overlapping ecosystems.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JohanRockstrom_2010G_480.mp4" length="265410331" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/6Cz0Inx-CDA/945</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:945</guid>
+					<pubDate>Tue, 31 Aug 2010 08:42:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:10</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JohanRockstrom_2010G_480.mp4" fileSize="265410331" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/195010_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/195010_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/945</feedburner:origLink></item><item>
+
+					<title>Nic Marks: The Happy Planet Index - Nic Marks (2010)</title>
+					<itunes:author>Nic Marks</itunes:author>
+					<description>Statistician Nic Marks asks why we measure a nation's success by its productivity -- instead of by the happiness and well-being of its people. He introduces the Happy Planet Index, which tracks national well-being against resource use (because a happy life doesn't have to cost the earth). Which countries rank highest in the HPI? You might be surprised.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/nAzsMeRMblQ" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Nic Marks: The Happy Planet Index</itunes:subtitle>
+					<itunes:summary><![CDATA[Statistician Nic Marks asks why we measure a nation's success by its productivity -- instead of by the happiness and well-being of its people. He introduces the Happy Planet Index, which tracks national well-being against resource use (because a happy life doesn't have to cost the earth). Which countries rank highest in the HPI? You might be surprised.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/NicMarks_2010G_480.mp4" length="216194285" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/nAzsMeRMblQ/944</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:944</guid>
+					<pubDate>Mon, 30 Aug 2010 01:00:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:49</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/NicMarks_2010G_480.mp4" fileSize="216194285" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/194325_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/194325_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/944</feedburner:origLink></item><item>
+					<title>Dan Cobley: What physics taught me about marketing - Dan Cobley (2010)</title>
+					<itunes:author>Dan Cobley</itunes:author>
+
+					<description>Physics and marketing don't seem to have much in common, but Dan Cobley is passionate about both. He brings these unlikely bedfellows together using Newton's second law, Heisenberg's uncertainty principle, the scientific method and the second law of thermodynamics to explain the fundamental theories of branding.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/BGRuC1SEW2s" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Dan Cobley: What physics taught me about marketing</itunes:subtitle>
+					<itunes:summary><![CDATA[Physics and marketing don't seem to have much in common, but Dan Cobley is passionate about both. He brings these unlikely bedfellows together using Newton's second law, Heisenberg's uncertainty principle, the scientific method and the second law of thermodynamics to explain the fundamental theories of branding.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DanCobley_2010G_480.mp4" length="103546323" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/BGRuC1SEW2s/941</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:941</guid>
+
+					<pubDate>Fri, 27 Aug 2010 09:49:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:07:38</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DanCobley_2010G_480.mp4" fileSize="103546323" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/194018_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/194018_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/941</feedburner:origLink></item><item>
+					<title>Lisa Margonelli: The political chemistry of oil - Lisa Margonelli (2010)</title>
+					<itunes:author>Lisa Margonelli</itunes:author>
+					<description>In the Gulf oil spill's aftermath, Lisa Margonelli says drilling moratoriums and executive ousters make for good theater, but distract from the issue at its heart: our unrestrained oil consumption. She shares her bold plan to wean America off of oil -- by confronting consumers with its real cost.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/TwgnmKePzcA" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Lisa Margonelli: The political chemistry of oil</itunes:subtitle>
+					<itunes:summary><![CDATA[In the Gulf oil spill's aftermath, Lisa Margonelli says drilling moratoriums and executive ousters make for good theater, but distract from the issue at its heart: our unrestrained oil consumption. She shares her bold plan to wean America off of oil -- by confronting consumers with its real cost.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/LisaMargonelli_2010X_480.mp4" length="0" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/TwgnmKePzcA/940</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:940</guid>
+					<pubDate>Thu, 26 Aug 2010 08:50:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:14</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/LisaMargonelli_2010X_480.mp4" fileSize="0" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/193801_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/193801_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/940</feedburner:origLink></item><item>
+
+					<title>Jim Toomey: Learning from Sherman the shark - Jim Toomey (2010)</title>
+					<itunes:author>Jim Toomey</itunes:author>
+					<description>Cartoonist Jim Toomey created the comic strip Sherman's Lagoon, a wry look at underwater life starring Sherman the talking shark. As he sketches some of his favorite sea creatures live onstage, Toomey shares his love of the ocean and the stories it can tell.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/WFd0kKq56Z4" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Jim Toomey: Learning from Sherman the shark</itunes:subtitle>
+					<itunes:summary><![CDATA[Cartoonist Jim Toomey created the comic strip Sherman's Lagoon, a wry look at underwater life starring Sherman the talking shark. As he sketches some of his favorite sea creatures live onstage, Toomey shares his love of the ocean and the stories it can tell.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JimToomey_2010Z_480.mp4" length="240187630" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/WFd0kKq56Z4/939</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:939</guid>
+					<pubDate>Wed, 25 Aug 2010 09:04:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:14:15</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JimToomey_2010Z_480.mp4" fileSize="240187630" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/193573_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/193573_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/939</feedburner:origLink></item><item>
+					<title>Lee Hotz: Inside an Antarctic time machine - Robert Lee Hotz (2010)</title>
+					<itunes:author>Robert Lee Hotz</itunes:author>
+
+					<description>Science columnist Lee Hotz describes a remarkable project at WAIS Divide, Antarctica, where a hardy team are drilling into ten-thousand-year-old ice to extract vital data on our changing climate.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/yK9pbD1xePM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Lee Hotz: Inside an Antarctic time machine</itunes:subtitle>
+					<itunes:summary><![CDATA[Science columnist Lee Hotz describes a remarkable project at WAIS Divide, Antarctica, where a hardy team are drilling into ten-thousand-year-old ice to extract vital data on our changing climate.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/LeeHotz_2010G_480.mp4" length="161788647" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/yK9pbD1xePM/938</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:938</guid>
+
+					<pubDate>Tue, 24 Aug 2010 08:45:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/LeeHotz_2010G_480.mp4" fileSize="161788647" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/193313_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/193313_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/938</feedburner:origLink></item><item>
+					<title>David McCandless: The beauty of data visualization - David McCandless (2010)</title>
+					<itunes:author>David McCandless</itunes:author>
+					<description>David McCandless turns complex data sets (like worldwide military spending, media buzz, Facebook status updates) into beautiful, simple diagrams that tease out unseen patterns and connections. Good design, he suggests, is the best way to navigate information glut -- and it may just change the way we see the world.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/bgQxKTuaI4Y" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>David McCandless: The beauty of data visualization</itunes:subtitle>
+					<itunes:summary><![CDATA[David McCandless turns complex data sets (like worldwide military spending, media buzz, Facebook status updates) into beautiful, simple diagrams that tease out unseen patterns and connections. Good design, he suggests, is the best way to navigate information glut -- and it may just change the way we see the world.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DavidMcCandless_2010G_480.mp4" length="0" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/bgQxKTuaI4Y/937</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:937</guid>
+					<pubDate>Mon, 23 Aug 2010 09:02:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:56</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DavidMcCandless_2010G_480.mp4" fileSize="0" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/192641_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/192641_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/937</feedburner:origLink></item><item>
+
+					<title>Seth Priebatsch: The game layer on top of the world - Seth Priebatsch (2010)</title>
+					<itunes:author>Seth Priebatsch</itunes:author>
+					<description>By now, we're used to letting Facebook and Twitter capture our social lives on the web -- building a "social layer" on top of the real world. At TEDxBoston, Seth Priebatsch looks at the next layer in progress: the "game layer," a pervasive net of behavior-steering game dynamics that will reshape education and commerce.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/N7pO2e9rNlA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Seth Priebatsch: The game layer on top of the world</itunes:subtitle>
+					<itunes:summary><![CDATA[By now, we're used to letting Facebook and Twitter capture our social lives on the web -- building a "social layer" on top of the real world. At TEDxBoston, Seth Priebatsch looks at the next layer in progress: the "game layer," a pervasive net of behavior-steering game dynamics that will reshape education and commerce.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SethPriebatsch_2010X_480.mp4" length="264386067" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/N7pO2e9rNlA/936</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:936</guid>
+					<pubDate>Fri, 20 Aug 2010 08:43:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:12:02</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SethPriebatsch_2010X_480.mp4" fileSize="264386067" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/192381_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/192381_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/936</feedburner:origLink></item><item>
+					<title>Maz Jobrani: Did you hear the one about the Iranian-American? - Maz Jobrani (2010)</title>
+					<itunes:author>Maz Jobrani</itunes:author>
+
+					<description>A founding member of the Axis of Evil Comedy Tour, standup comic Maz Jobrani riffs on the challenges and conflicts of being Iranian-American -- "like, part of me thinks I should have a nuclear program; the other part thinks I can't be trusted ..."&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/TT-sgRX7uS0" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Maz Jobrani: Did you hear the one about the Iranian-American?</itunes:subtitle>
+					<itunes:summary><![CDATA[A founding member of the Axis of Evil Comedy Tour, standup comic Maz Jobrani riffs on the challenges and conflicts of being Iranian-American -- "like, part of me thinks I should have a nuclear program; the other part thinks I can't be trusted ..."]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MazJobrani_2010G_480.mp4" length="122527268" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/TT-sgRX7uS0/935</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:935</guid>
+
+					<pubDate>Thu, 19 Aug 2010 08:29:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:14</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MazJobrani_2010G_480.mp4" fileSize="122527268" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/192133_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/192133_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/935</feedburner:origLink></item><item>
+					<title>Jamil Abu-Wardeh: The Axis of Evil Middle East Comedy Tour - Jamil Abu-Wardeh (2010)</title>
+					<itunes:author>Jamil Abu-Wardeh</itunes:author>
+					<description>Jamil Abu-Wardeh jump-started the comedy scene in the Arab world by founding the Axis of Evil Middle East Comedy Tour, which brings standup comedians to laughing audiences all over the region. He's found that, by respecting the "three B's" (blue material, beliefs and "bolitics"), the Axis of Evil comics find plenty of cross-border laughs.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/JM-TvQJk9iA" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Jamil Abu-Wardeh: The Axis of Evil Middle East Comedy Tour</itunes:subtitle>
+					<itunes:summary><![CDATA[Jamil Abu-Wardeh jump-started the comedy scene in the Arab world by founding the Axis of Evil Middle East Comedy Tour, which brings standup comedians to laughing audiences all over the region. He's found that, by respecting the "three B's" (blue material, beliefs and "bolitics"), the Axis of Evil comics find plenty of cross-border laughs.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JamilAbuWardeh_2010G_480.mp4" length="113082139" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/JM-TvQJk9iA/934</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:934</guid>
+					<pubDate>Thu, 19 Aug 2010 08:23:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:08:59</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JamilAbuWardeh_2010G_480.mp4" fileSize="113082139" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/192130_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/192130_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/934</feedburner:origLink></item><item>
+
+					<title>Peter Molyneux demos Milo, the virtual boy - Peter Molyneux (2010)</title>
+					<itunes:author>Peter Molyneux</itunes:author>
+					<description>Peter Molyneux demos Milo, a hotly anticipated video game for Microsoft's Kinect controller. Perceptive and impressionable like a real 11-year-old, the virtual boy watches, listens and learns -- recognizing and responding to you.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/I8daZC7HTZw" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Peter Molyneux demos Milo, the virtual boy</itunes:subtitle>
+					<itunes:summary><![CDATA[Peter Molyneux demos Milo, a hotly anticipated video game for Microsoft's Kinect controller. Perceptive and impressionable like a real 11-year-old, the virtual boy watches, listens and learns -- recognizing and responding to you.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/PeterMolyneux_2010G_480.mp4" length="0" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/I8daZC7HTZw/932</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:932</guid>
+					<pubDate>Wed, 18 Aug 2010 08:13:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:10:55</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/PeterMolyneux_2010G_480.mp4" fileSize="0" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/191796_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/191796_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/932</feedburner:origLink></item><item>
+					<title>Sheryl WuDunn: Our century's greatest injustice  - Sheryl WuDunn (2010)</title>
+					<itunes:author>Sheryl WuDunn</itunes:author>
+
+					<description>Sheryl WuDunn's book "Half the Sky" investigates the oppression of women globally. Her stories shock. Only when women in developing countries have equal access to education and economic opportunity will we be using all our human resources.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/ZkDVdCdw8S8" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Sheryl WuDunn: Our century's greatest injustice </itunes:subtitle>
+					<itunes:summary><![CDATA[Sheryl WuDunn's book "Half the Sky" investigates the oppression of women globally. Her stories shock. Only when women in developing countries have equal access to education and economic opportunity will we be using all our human resources.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SherylWuDunn_2010G_480.mp4" length="0" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/ZkDVdCdw8S8/930</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:930</guid>
+
+					<pubDate>Tue, 17 Aug 2010 09:49:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:22</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SherylWuDunn_2010G_480.mp4" fileSize="0" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/191557_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/191557_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/930</feedburner:origLink></item><item>
+					<title>Jason Clay: How big brands can help save biodiversity - Jason Clay (2010)</title>
+					<itunes:author>Jason Clay</itunes:author>
+					<description>Convince just 100 key companies to go sustainable, and WWF's Jason Clay says global markets will shift to protect the planet our consumption has already outgrown. Hear how his extraordinary roundtables are getting big brand rivals to agree on green practices first -- before their products duke it out on store shelves.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/ENQb-SzKoNE" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Jason Clay: How big brands can help save biodiversity</itunes:subtitle>
+					<itunes:summary><![CDATA[Convince just 100 key companies to go sustainable, and WWF's Jason Clay says global markets will shift to protect the planet our consumption has already outgrown. Hear how his extraordinary roundtables are getting big brand rivals to agree on green practices first -- before their products duke it out on store shelves.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JasonClay_2010G_480.mp4" length="0" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/ENQb-SzKoNE/929</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:929</guid>
+					<pubDate>Mon, 16 Aug 2010 08:43:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:29</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JasonClay_2010G_480.mp4" fileSize="0" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/187887_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/187887_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/929</feedburner:origLink></item><item>
+
+					<title>Lewis Pugh's mind-shifting Everest swim - Lewis Pugh (2010)</title>
+					<itunes:author>Lewis Pugh</itunes:author>
+					<description>After he swam the North Pole, Lewis Pugh vowed never to take another cold-water dip. Then he heard of Lake Imja in the Himalayas, created by recent glacial melting, and Lake Pumori, a body of water at an altitude of 5300 m on Everest -- and so began a journey that would teach him a radical new way to approach swimming and think about climate change.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/7su1KMi1nf4" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Lewis Pugh's mind-shifting Everest swim</itunes:subtitle>
+					<itunes:summary><![CDATA[After he swam the North Pole, Lewis Pugh vowed never to take another cold-water dip. Then he heard of Lake Imja in the Himalayas, created by recent glacial melting, and Lake Pumori, a body of water at an altitude of 5300 m on Everest -- and so began a journey that would teach him a radical new way to approach swimming and think about climate change.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/LewisPugh_2010G_480.mp4" length="124002415" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/7su1KMi1nf4/928</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:928</guid>
+					<pubDate>Fri, 30 Jul 2010 08:55:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:45</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/LewisPugh_2010G_480.mp4" fileSize="124002415" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/187709_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/187709_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/928</feedburner:origLink></item><item>
+					<title>Laurie Santos: A monkey economy as irrational as ours - Laurie Santos (2010)</title>
+					<itunes:author>Laurie Santos</itunes:author>
+
+					<description>Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in "monkeynomics" shows that some of the silly choices we make, monkeys make too.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/Dif_swGZstA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Laurie Santos: A monkey economy as irrational as ours</itunes:subtitle>
+					<itunes:summary><![CDATA[Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in "monkeynomics" shows that some of the silly choices we make, monkeys make too.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/LaurieSantos_2010G_480.mp4" length="252413283" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/Dif_swGZstA/927</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:927</guid>
+
+					<pubDate>Thu, 29 Jul 2010 08:47:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/LaurieSantos_2010G_480.mp4" fileSize="252413283" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/187437_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/187437_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/927</feedburner:origLink></item><item>
+					<title>John Delaney: Wiring an interactive ocean - John Delaney (2010)</title>
+					<itunes:author>John Delaney</itunes:author>
+					<description>Oceanographer John Delaney is leading the team that is building an underwater network of high-def cameras and sensors that will turn our ocean into a global interactive lab -- sparking an explosion of rich data about the world below.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/CIS0LEwOcFg" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>John Delaney: Wiring an interactive ocean</itunes:subtitle>
+					<itunes:summary><![CDATA[Oceanographer John Delaney is leading the team that is building an underwater network of high-def cameras and sensors that will turn our ocean into a global interactive lab -- sparking an explosion of rich data about the world below.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JohnDelaney_2010Z_480.mp4" length="354713008" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/CIS0LEwOcFg/926</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:926</guid>
+					<pubDate>Wed, 28 Jul 2010 09:33:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:20:50</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JohnDelaney_2010Z_480.mp4" fileSize="354713008" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/187176_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/187176_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/926</feedburner:origLink></item><item>
+
+					<title>Susan Shaw: The oil spill's toxic trade-off - Susan Shaw (2010)</title>
+					<itunes:author>Susan Shaw</itunes:author>
+					<description>Break down the oil slick, keep it off the shores: that's grounds for pumping toxic dispersant into the Gulf, say clean-up overseers. Susan Shaw shows evidence it's sparing some beaches only at devastating cost to the health of the deep sea.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/09w_c5hLFXE" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Susan Shaw: The oil spill's toxic trade-off</itunes:subtitle>
+					<itunes:summary><![CDATA[Break down the oil slick, keep it off the shores: that's grounds for pumping toxic dispersant into the Gulf, say clean-up overseers. Susan Shaw shows evidence it's sparing some beaches only at devastating cost to the health of the deep sea.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SusanShaw_2010X_480.mp4" length="194398289" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/09w_c5hLFXE/925</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:925</guid>
+					<pubDate>Tue, 27 Jul 2010 09:02:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:42</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SusanShaw_2010X_480.mp4" fileSize="194398289" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/186825_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/186825_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/925</feedburner:origLink></item><item>
+					<title>Sheena Iyengar on the art of choosing - Sheena Iyengar (2010)</title>
+					<itunes:author>Sheena Iyengar</itunes:author>
+
+					<description>Sheena Iyengar studies how we make choices -- and how we feel about the choices we make. At TEDGlobal, she talks about both trivial choices (Coke v. Pepsi) and profound ones, and shares her groundbreaking research that has uncovered some surprising attitudes about our decisions.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/mCdD7xE9A7A" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Sheena Iyengar on the art of choosing</itunes:subtitle>
+					<itunes:summary><![CDATA[Sheena Iyengar studies how we make choices -- and how we feel about the choices we make. At TEDGlobal, she talks about both trivial choices (Coke v. Pepsi) and profound ones, and shares her groundbreaking research that has uncovered some surprising attitudes about our decisions.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SheenaIyengar_2010G_480.mp4" length="332189179" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/mCdD7xE9A7A/924</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:924</guid>
+
+					<pubDate>Mon, 26 Jul 2010 08:36:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:24:08</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SheenaIyengar_2010G_480.mp4" fileSize="332189179" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/186795_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/186795_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/924</feedburner:origLink></item><item>
+					<title>Kevin Stone: The bio-future of joint replacement - Kevin Stone (2010)</title>
+					<itunes:author>Kevin Stone</itunes:author>
+					<description>Arthritis and injury grind down millions of joints, but few get the best remedy -- real biological tissue. Kevin Stone shows a treatment that could sidestep the high costs and donor shortfall of human-to-human transplants with a novel use of animal tissue.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/rqg64VFKl_Q" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Kevin Stone: The bio-future of joint replacement</itunes:subtitle>
+					<itunes:summary><![CDATA[Arthritis and injury grind down millions of joints, but few get the best remedy -- real biological tissue. Kevin Stone shows a treatment that could sidestep the high costs and donor shortfall of human-to-human transplants with a novel use of animal tissue.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/KevinStone_2010U_480.mp4" length="93554888" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/rqg64VFKl_Q/922</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:922</guid>
+					<pubDate>Thu, 22 Jul 2010 14:44:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:06:51</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/KevinStone_2010U_480.mp4" fileSize="93554888" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/185920_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/185920_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/922</feedburner:origLink></item><item>
+
+					<title>Tan Le: A headset that reads your brainwaves - Tan Le (2010)</title>
+					<itunes:author>Tan Le</itunes:author>
+					<description>Tan Le's astonishing new computer interface reads its user's brainwaves, making it possible to control virtual objects, and even physical electronics, with mere thoughts (and a little concentration). She demos the headset, and talks about its far-reaching applications.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/oO1iYNmgtaY" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Tan Le: A headset that reads your brainwaves</itunes:subtitle>
+					<itunes:summary><![CDATA[Tan Le's astonishing new computer interface reads its user's brainwaves, making it possible to control virtual objects, and even physical electronics, with mere thoughts (and a little concentration). She demos the headset, and talks about its far-reaching applications.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/TanLe_2010G_480.mp4" length="173831352" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/oO1iYNmgtaY/921</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:921</guid>
+					<pubDate>Wed, 21 Jul 2010 12:36:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:10:36</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/TanLe_2010G_480.mp4" fileSize="173831352" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/185657_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/185657_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/921</feedburner:origLink></item><item>
+					<title>Dimitar Sasselov: How we found hundreds of potential Earth-like planets - Dimitar Sasselov (2010)</title>
+					<itunes:author>Dimitar Sasselov</itunes:author>
+
+					<description>Astronomer Dimitar Sasselov and his colleagues search for Earth-like planets that may, someday, help us answer centuries-old questions about the origin and existence of biological life elsewhere (and on Earth). Preliminary results show that they have found 706 "candidates" -- some of which further research may prove to be planets with Earth-like geochemical characteristics.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/qbmnInwxmEw" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Dimitar Sasselov: How we found hundreds of potential Earth-like planets</itunes:subtitle>
+					<itunes:summary><![CDATA[Astronomer Dimitar Sasselov and his colleagues search for Earth-like planets that may, someday, help us answer centuries-old questions about the origin and existence of biological life elsewhere (and on Earth). Preliminary results show that they have found 706 "candidates" -- some of which further research may prove to be planets with Earth-like geochemical characteristics.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DimitarSasselov_2010G_480.mp4" length="281118267" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/qbmnInwxmEw/920</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:920</guid>
+
+					<pubDate>Wed, 21 Jul 2010 09:10:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:30</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DimitarSasselov_2010G_480.mp4" fileSize="281118267" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/185388_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/185388_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/920</feedburner:origLink></item><item>
+					<title>Naif Al-Mutawa: Superheroes inspired by Islam - Naif Al-Mutawa (2010)</title>
+					<itunes:author>Naif Al-Mutawa</itunes:author>
+					<description>In "THE 99," Naif Al-Mutawa's new generation of comic book heroes fight more than crime -- they smash stereotypes and battle extremism. Named after the 99 attributes of Allah, his characters reinforce positive messages of Islam and cross cultures to create a new moral framework for confronting evil, even teaming up with the Justice League of America.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/LNx8We380Sk" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Naif Al-Mutawa: Superheroes inspired by Islam</itunes:subtitle>
+					<itunes:summary><![CDATA[In "THE 99," Naif Al-Mutawa's new generation of comic book heroes fight more than crime -- they smash stereotypes and battle extremism. Named after the 99 attributes of Allah, his characters reinforce positive messages of Islam and cross cultures to create a new moral framework for confronting evil, even teaming up with the Justice League of America. ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/NaifAl-Mutawa_2010G_480.mp4" length="267899325" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/LNx8We380Sk/919</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:919</guid>
+					<pubDate>Tue, 20 Jul 2010 09:08:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:22</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/NaifAl-Mutawa_2010G_480.mp4" fileSize="267899325" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/185245_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/185245_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/919</feedburner:origLink></item><item>
+
+					<title>Julian Assange: Why the world needs WikiLeaks  - Julian Assange (2010)</title>
+					<itunes:author>Julian Assange</itunes:author>
+					<description>The controversial website WikiLeaks collects and posts highly classified documents and video. Founder Julian Assange, who's reportedly being sought for questioning by US authorities, talks to TED's Chris Anderson about how the site operates, what it has accomplished -- and what drives him. The interview includes graphic footage of a recent US airstrike in Baghdad.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/1E350qFAUm4" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Julian Assange: Why the world needs WikiLeaks </itunes:subtitle>
+					<itunes:summary><![CDATA[The controversial website WikiLeaks collects and posts highly classified documents and video. Founder Julian Assange, who's reportedly being sought for questioning by US authorities, talks to TED's Chris Anderson about how the site operates, what it has accomplished -- and what drives him. The interview includes graphic footage of a recent US airstrike in Baghdad.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JulianAssange_2010G_480.mp4" length="235889214" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/1E350qFAUm4/918</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:918</guid>
+					<pubDate>Mon, 19 Jul 2010 10:04:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:33</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JulianAssange_2010G_480.mp4" fileSize="235889214" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/185000_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/185000_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/918</feedburner:origLink></item><item>
+					<title>Elif Shafak: The politics of fiction - Elif Shafak (2010)</title>
+					<itunes:author>Elif Shafak</itunes:author>
+
+					<description>Listening to stories widens the imagination; telling them lets us leap over cultural walls, embrace different experiences, feel what others feel. Elif Shafak builds on this simple idea to argue that fiction can overcome identity politics.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/-yXLqLppktM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Elif Shafak: The politics of fiction</itunes:subtitle>
+					<itunes:summary><![CDATA[Listening to stories widens the imagination; telling them lets us leap over cultural walls, embrace different experiences, feel what others feel. Elif Shafak builds on this simple idea to argue that fiction can overcome identity politics.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ElifShafak_2010G_480.mp4" length="251936468" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/-yXLqLppktM/917</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:917</guid>
+
+					<pubDate>Fri, 16 Jul 2010 06:37:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ElifShafak_2010G_480.mp4" fileSize="251936468" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/184238_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/184238_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/917</feedburner:origLink></item><item>
+					<title>Ethan Zuckerman: Listening to global voices - Ethan Zuckerman (2010)</title>
+					<itunes:author>Ethan Zuckerman</itunes:author>
+					<description>Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don't even know.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/THzkTgSsdr4" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Ethan Zuckerman: Listening to global voices</itunes:subtitle>
+					<itunes:summary><![CDATA[Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don't even know.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/EthanZuckerman_2010G_480.mp4" length="247886613" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/THzkTgSsdr4/916</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:916</guid>
+					<pubDate>Thu, 15 Jul 2010 10:22:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/EthanZuckerman_2010G_480.mp4" fileSize="247886613" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/183882_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/183882_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/916</feedburner:origLink></item><item>
+
+					<title>Matt Ridley: When ideas have sex - Matt Ridley (2010)</title>
+					<itunes:author>Matt Ridley</itunes:author>
+					<description>At TEDGlobal 2010, author Matt Ridley shows how, throughout history, the engine of human progress has been the meeting and mating of ideas to make new ideas. It's not important how clever individuals are, he says; what really matters is how smart the collective brain is.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/I4QPbhY2QwM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Matt Ridley: When ideas have sex</itunes:subtitle>
+					<itunes:summary><![CDATA[At TEDGlobal 2010, author Matt Ridley shows how, throughout history, the engine of human progress has been the meeting and mating of ideas to make new ideas. It's not important how clever individuals are, he says; what really matters is how smart the collective brain is.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MattRidley_2010G_480.mp4" length="211377861" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/I4QPbhY2QwM/915</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:915</guid>
+					<pubDate>Wed, 14 Jul 2010 11:20:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:26</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MattRidley_2010G_480.mp4" fileSize="211377861" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/183707_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/183707_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/915</feedburner:origLink></item><item>
+					<title>Carl Safina: The oil spill's unseen culprits, victims - Carl Safina (2010)</title>
+					<itunes:author>Carl Safina</itunes:author>
+
+					<description>The Gulf oil spill dwarfs comprehension, but we know this much: it's bad. Carl Safina scrapes out the facts in this blood-boiling cross-examination, arguing that the consequences will stretch far beyond the Gulf -- and many so-called solutions are making the situation worse.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/eTfJV8rOQcI" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Carl Safina: The oil spill's unseen culprits, victims</itunes:subtitle>
+					<itunes:summary><![CDATA[The Gulf oil spill dwarfs comprehension, but we know this much: it's bad. Carl Safina scrapes out the facts in this blood-boiling cross-examination, arguing that the consequences will stretch far beyond the Gulf -- and many so-called solutions are making the situation worse.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CarlSafina_2010X_480.mp4" length="246078308" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/eTfJV8rOQcI/914</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:914</guid>
+
+					<pubDate>Mon, 12 Jul 2010 09:28:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:55</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CarlSafina_2010X_480.mp4" fileSize="246078308" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/183128_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/183128_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/914</feedburner:origLink></item><item>
+					<title>Hans Rosling on global population growth - Hans Rosling (2010)</title>
+					<itunes:author>Hans Rosling</itunes:author>
+					<description>The world's population will grow to 9 billion over the next 50 years -- and only by raising the living standards of the poorest can we check population growth. This is the paradoxical answer that Hans Rosling unveils at TED@Cannes using colorful new data display technology (you'll see).&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/g6lUwWHbhyo" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Hans Rosling on global population growth</itunes:subtitle>
+					<itunes:summary><![CDATA[The world's population will grow to 9 billion over the next 50 years -- and only by raising the living standards of the poorest can we check population growth. This is the paradoxical answer that Hans Rosling unveils at TED@Cannes using colorful new data display technology (you'll see).]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/HansRosling_2010S_480.mp4" length="124065328" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/g6lUwWHbhyo/912</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:912</guid>
+					<pubDate>Fri, 09 Jul 2010 08:15:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:10:04</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/HansRosling_2010S_480.mp4" fileSize="124065328" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/181970_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/181970_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/912</feedburner:origLink></item><item>
+
+					<title>Nalini Nadkarni: Life science in prison - Nalini Nadkarni (2010)</title>
+					<itunes:author>Nalini Nadkarni</itunes:author>
+					<description>Nalini Nadkarni challenges our perspective on trees and prisons -- she says both can be more dynamic than we think. Through a partnership with the state of Washington, she brings science classes and conservation programs to inmates, with unexpected results.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/vI_CBkPsWQA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Nalini Nadkarni: Life science in prison</itunes:subtitle>
+					<itunes:summary><![CDATA[Nalini Nadkarni challenges our perspective on trees and prisons -- she says both can be more dynamic than we think. Through a partnership with the state of Washington, she brings science classes and conservation programs to inmates, with unexpected results.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/NaliniNadkarni_2010U_480.mp4" length="77438136" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/vI_CBkPsWQA/911</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:911</guid>
+					<pubDate>Thu, 08 Jul 2010 08:52:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:07</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/NaliniNadkarni_2010U_480.mp4" fileSize="77438136" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/182288_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/182288_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/911</feedburner:origLink></item><item>
+					<title>Ellen Gustafson: Obesity + Hunger = 1 global food issue - Ellen  Gustafson (2010)</title>
+					<itunes:author>Ellen  Gustafson</itunes:author>
+
+					<description>Co-creator of the philanthropic FEED bags, Ellen Gustafson says hunger and obesity are two sides of the same coin. At TEDxEast, she launches The 30 Project -- a way to change how we farm and eat in the next 30 years, and solve the global food inequalities behind both epidemics.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/GFQ8VBewrG0" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Ellen Gustafson: Obesity + Hunger = 1 global food issue</itunes:subtitle>
+					<itunes:summary><![CDATA[Co-creator of the philanthropic FEED bags, Ellen Gustafson says hunger and obesity are two sides of the same coin. At TEDxEast, she launches The 30 Project -- a way to change how we farm and eat in the next 30 years, and solve the global food inequalities behind both epidemics. ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/EllenGustafson_2010X_480.mp4" length="128501811" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/GFQ8VBewrG0/910</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:910</guid>
+
+					<pubDate>Wed, 07 Jul 2010 08:47:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:11:15</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/EllenGustafson_2010X_480.mp4" fileSize="128501811" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/181989_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/181989_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/910</feedburner:origLink></item><item>
+					<title>Benoit Mandelbrot: Fractals and the art of roughness - Benoit Mandelbrot (2010)</title>
+					<itunes:author>Benoit Mandelbrot</itunes:author>
+					<description>At TED2010, mathematics legend Benoit Mandelbrot develops a theme he first discussed at TED in 1984 -- the extreme complexity of roughness, and the way that fractal math can find order within patterns that seem unknowably complicated.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/esbVZy61K0M" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Benoit Mandelbrot: Fractals and the art of roughness</itunes:subtitle>
+					<itunes:summary><![CDATA[At TED2010, mathematics legend Benoit Mandelbrot develops a theme he first discussed at TED in 1984 -- the extreme complexity of roughness, and the way that fractal math can find order within patterns that seem unknowably complicated.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/BenoitMandelbrot_2010_480.mp4" length="314414657" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/esbVZy61K0M/909</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:909</guid>
+					<pubDate>Tue, 06 Jul 2010 09:20:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:09</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/BenoitMandelbrot_2010_480.mp4" fileSize="314414657" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/181883_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/181883_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/909</feedburner:origLink></item><item>
+
+					<title>Mitchell Joachim: Don't build your home, grow it! - Mitchell Joachim (2010)</title>
+					<itunes:author>Mitchell Joachim</itunes:author>
+					<description>TED Fellow and urban designer Mitchell Joachim presents his vision for sustainable, organic architecture: eco-friendly abodes grown from plants and -- wait for it -- meat.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/3leIMBoD_lo" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Mitchell Joachim: Don't build your home, grow it!</itunes:subtitle>
+					<itunes:summary><![CDATA[TED Fellow and urban designer Mitchell Joachim presents his vision for sustainable, organic architecture: eco-friendly abodes grown from plants and -- wait for it -- meat.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MitchellJoachim_2010_480.mp4" length="43145184" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/3leIMBoD_lo/901</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:901</guid>
+					<pubDate>Fri, 02 Jul 2010 09:34:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:02:56</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MitchellJoachim_2010_480.mp4" fileSize="43145184" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/181022_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/181022_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/901</feedburner:origLink></item><item>
+					<title>Carter Emmart demos a 3D atlas of the universe  - Carter Emmart  (2010)</title>
+					<itunes:author>Carter Emmart </itunes:author>
+
+					<description>For the last 12 years, Carter Emmart has been coordinating the efforts of scientists, artists and programmers to build a complete 3D visualization of our known universe. He demos this stunning tour and explains how it's being shared with facilities around the world.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/m0zNnrsmJGY" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Carter Emmart demos a 3D atlas of the universe </itunes:subtitle>
+					<itunes:summary><![CDATA[For the last 12 years, Carter Emmart has been coordinating the efforts of scientists, artists and programmers to build a complete 3D visualization of our known universe. He demos this stunning tour and explains how it's being shared with facilities around the world.
+]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CarterEmmart_2010_480.mp4" length="144313520" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/m0zNnrsmJGY/900</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:900</guid>
+
+					<pubDate>Thu, 01 Jul 2010 09:05:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:06:57</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CarterEmmart_2010_480.mp4" fileSize="144313520" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/180834_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/180834_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/900</feedburner:origLink></item><item>
+					<title>Stephen Palumbi: Following the mercury trail - Stephen Palumbi (2010)</title>
+					<itunes:author>Stephen Palumbi</itunes:author>
+					<description>There's a tight and surprising link between the ocean's health and ours, says marine biologist Stephen Palumbi. He shows how toxins at the bottom of the ocean food chain find their way into our bodies, with a shocking story of toxic contamination from a Japanese fish market. His work points a way forward for saving the oceans' health -- and humanity's.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/xuEftlN6syQ" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Stephen Palumbi: Following the mercury trail</itunes:subtitle>
+					<itunes:summary><![CDATA[There's a tight and surprising link between the ocean's health and ours, says marine biologist Stephen Palumbi. He shows how toxins at the bottom of the ocean food chain find their way into our bodies, with a shocking story of toxic contamination from a Japanese fish market. His work points a way forward for saving the oceans' health -- and humanity's.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/StephenPalumbi_2010Z_480.mp4" length="220023553" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/xuEftlN6syQ/899</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:899</guid>
+					<pubDate>Wed, 30 Jun 2010 09:11:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:42</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/StephenPalumbi_2010Z_480.mp4" fileSize="220023553" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/180746_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/180746_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/899</feedburner:origLink></item><item>
+
+					<title>Ellen Dunham-Jones: Retrofitting suburbia - Ellen Dunham-Jones (2010)</title>
+					<itunes:author>Ellen Dunham-Jones</itunes:author>
+					<description>Ellen Dunham-Jones fires the starting shot for the next 50 years' big sustainable design project: retrofitting suburbia. To come: Dying malls rehabilitated, dead "big box" stores re-inhabited, parking lots transformed into thriving wetlands.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/zZNv33Ci9mg" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Ellen Dunham-Jones: Retrofitting suburbia</itunes:subtitle>
+					<itunes:summary><![CDATA[Ellen Dunham-Jones fires the starting shot for the next 50 years' big sustainable design project: retrofitting suburbia. To come: Dying malls rehabilitated, dead "big box" stores re-inhabited, parking lots transformed into thriving wetlands.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/EllenDunham-Jones_2010X_480.mp4" length="308384047" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/zZNv33Ci9mg/898</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:898</guid>
+					<pubDate>Tue, 29 Jun 2010 09:24:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:23</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/EllenDunham-Jones_2010X_480.mp4" fileSize="308384047" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/180452_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/180452_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/898</feedburner:origLink></item><item>
+					<title>Clay Shirky: How cognitive surplus will change the world - Clay Shirky (2010)</title>
+					<itunes:author>Clay Shirky</itunes:author>
+
+					<description>Clay Shirky looks at "cognitive surplus" -- the shared, online work we do with our spare brain cycles. While we're busy editing Wikipedia, posting to Ushahidi (and yes, making LOLcats), we're building a better, more cooperative world.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/G-20W33fbvU" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Clay Shirky: How cognitive surplus will change the world</itunes:subtitle>
+					<itunes:summary><![CDATA[Clay Shirky looks at "cognitive surplus" -- the shared, online work we do with our spare brain cycles. While we're busy editing Wikipedia, posting to Ushahidi (and yes, making LOLcats), we're building a better, more cooperative world.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ClayShirky_2010S_480.mp4" length="165352579" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/G-20W33fbvU/896</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:896</guid>
+
+					<pubDate>Mon, 28 Jun 2010 09:04:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:13:07</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ClayShirky_2010S_480.mp4" fileSize="165352579" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/179734_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/179734_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/896</feedburner:origLink></item><item>
+					<title>Hillel Cooperman: Legos for grownups - Hillel Cooperman (2010)</title>
+					<itunes:author>Hillel Cooperman</itunes:author>
+					<description>Lego blocks: playtime mainstay for industrious kids, obsession for many (ahem!) mature adults. Hillel Cooperman takes us on a trip through the beloved bricks' colorful, sometimes oddball grownup subculture, featuring CAD, open-source robotics and a little adult behavior.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/ROj21WIarWM" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Hillel Cooperman: Legos for grownups</itunes:subtitle>
+					<itunes:summary><![CDATA[Lego blocks: playtime mainstay for industrious kids, obsession for many (ahem!) mature adults. Hillel Cooperman takes us on a trip through the beloved bricks' colorful, sometimes oddball grownup subculture, featuring CAD, open-source robotics and a little adult behavior.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/HillelCooperman_2010U_480.mp4" length="109483273" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/ROj21WIarWM/894</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:894</guid>
+					<pubDate>Fri, 25 Jun 2010 08:51:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:50</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/HillelCooperman_2010U_480.mp4" fileSize="109483273" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/179724_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/179724_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/894</feedburner:origLink></item><item>
+
+					<title>Aditi Shankardass: A second opinion on learning disorders  - Aditi Shankardass (2009)</title>
+					<itunes:author>Aditi Shankardass</itunes:author>
+					<description>Developmental disorders in children are typically diagnosed by observing behavior, but Aditi Shankardass knew that we should be looking directly at their brains. She explains how a remarkable EEG device has revealed mistaken diagnoses and transformed children's lives.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/qF0WD3gDNDs" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Aditi Shankardass: A second opinion on learning disorders </itunes:subtitle>
+					<itunes:summary><![CDATA[Developmental disorders in children are typically diagnosed by observing behavior, but Aditi Shankardass knew that we should be looking directly at their brains. She explains how a remarkable EEG device has revealed mistaken diagnoses and transformed children's lives.  ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/AditiShankardass_2009I_480.mp4" length="120845567" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/qF0WD3gDNDs/893</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:893</guid>
+					<pubDate>Thu, 24 Jun 2010 08:49:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:01</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/AditiShankardass_2009I_480.mp4" fileSize="120845567" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/179266_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/179266_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/893</feedburner:origLink></item><item>
+					<title>Charles Leadbeater: Education innovation in the slums - Charles Leadbeater (2010)</title>
+					<itunes:author>Charles Leadbeater</itunes:author>
+
+					<description>Charles Leadbeater went looking for radical new forms of education -- and found them in the slums of Rio and Kibera, where some of the world's poorest kids are finding transformative new ways to learn. And this informal, disruptive new kind of school, he says, is what all schools need to become.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/oYQfES78eF0" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Charles Leadbeater: Education innovation in the slums</itunes:subtitle>
+					<itunes:summary><![CDATA[Charles Leadbeater went looking for radical new forms of education -- and found them in the slums of Rio and Kibera, where some of the world's poorest kids are finding transformative new ways to learn. And this informal, disruptive new kind of school, he says, is what all schools need to become.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CharlesLeadbeater_2010S_480.mp4" length="238925571" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/oYQfES78eF0/892</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:892</guid>
+
+					<pubDate>Wed, 23 Jun 2010 08:48:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:58</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CharlesLeadbeater_2010S_480.mp4" fileSize="238925571" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/179243_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/179243_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/892</feedburner:origLink></item><item>
+					<title>Marian Bantjes: Intricate beauty by design  - Marian Bantjes (2010)</title>
+					<itunes:author>Marian Bantjes</itunes:author>
+					<description>In graphic design, Marian Bantjes says, throwing your individuality into a project is heresy. She explains how she built her career doing just that, bringing her signature delicate illustrations to storefronts, valentines and even genetic diagrams.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/JgqTGj3KdYs" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Marian Bantjes: Intricate beauty by design </itunes:subtitle>
+					<itunes:summary><![CDATA[In graphic design, Marian Bantjes says, throwing your individuality into a project is heresy. She explains how she built her career doing just that, bringing her signature delicate illustrations to storefronts, valentines and even genetic diagrams.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MarianBantjes_2010_480.mp4" length="215966817" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/JgqTGj3KdYs/891</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:891</guid>
+					<pubDate>Tue, 22 Jun 2010 09:15:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:28</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MarianBantjes_2010_480.mp4" fileSize="215966817" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/179090_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/179090_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/891</feedburner:origLink></item><item>
+
+					<title>Chip Conley: Measuring what makes life worthwhile - Chip Conley (2010)</title>
+					<itunes:author>Chip Conley</itunes:author>
+					<description>When the dotcom bubble burst, hotelier Chip Conley went in search of a business model based on happiness. In an old friendship with an employee and in the wisdom of a Buddhist king, he learned that success comes from what you count.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/I2MA3wm-vBA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Chip Conley: Measuring what makes life worthwhile</itunes:subtitle>
+					<itunes:summary><![CDATA[When the dotcom bubble burst, hotelier Chip Conley went in search of a business model based on happiness. In an old friendship with an employee and in the wisdom of a Buddhist king, he learned that success comes from what you count.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ChipConley_2010_480.mp4" length="368444294" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/I2MA3wm-vBA/889</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:889</guid>
+					<pubDate>Mon, 21 Jun 2010 08:29:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:39</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ChipConley_2010_480.mp4" fileSize="368444294" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/178547_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/178547_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/889</feedburner:origLink></item><item>
+					<title>Ananda Shankar Jayant fights cancer with dance  - Ananda Shankar Jayant (2009)</title>
+					<itunes:author>Ananda Shankar Jayant</itunes:author>
+
+					<description>Renowned classical Indian dancer Ananda Shankar Jayant was diagnosed with cancer in 2008. She tells her personal story of not only facing the disease but dancing through it, and gives a performance revealing the metaphor of strength that helped her do it.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/jrT-vxS2tSc" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Ananda Shankar Jayant fights cancer with dance </itunes:subtitle>
+					<itunes:summary><![CDATA[Renowned classical Indian dancer Ananda Shankar Jayant was diagnosed with cancer in 2008. She tells her personal story of not only facing the disease but dancing through it, and gives a performance revealing the metaphor of strength that helped her do it. ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/AnandaShankar_2009I_480.mp4" length="224647350" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/jrT-vxS2tSc/888</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:888</guid>
+
+					<pubDate>Fri, 18 Jun 2010 09:00:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:07</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/AnandaShankar_2009I_480.mp4" fileSize="224647350" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/178334_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/178334_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/888</feedburner:origLink></item><item>
+					<title>Cameron Herold: Let's raise kids to be entrepreneurs - Cameron Herold (2010)</title>
+					<itunes:author>Cameron Herold</itunes:author>
+					<description>Bored in school, failing classes, at odds with peers: This child might be an entrepreneur, says Cameron Herold. At TEDxEdmonton, he makes the case for parenting and education that helps would-be entrepreneurs flourish -- as kids and as adults.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/wzY7OR609yQ" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Cameron Herold: Let's raise kids to be entrepreneurs</itunes:subtitle>
+					<itunes:summary><![CDATA[Bored in school, failing classes, at odds with peers: This child might be an entrepreneur, says Cameron Herold. At TEDxEdmonton, he makes the case for parenting and education that helps would-be entrepreneurs flourish -- as kids and as adults.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CameronHerold_2009X_480.mp4" length="347271058" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/wzY7OR609yQ/887</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:887</guid>
+					<pubDate>Thu, 17 Jun 2010 09:19:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:21:24</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CameronHerold_2009X_480.mp4" fileSize="347271058" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/178132_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/178132_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/887</feedburner:origLink></item><item>
+
+					<title>Peter Tyack: The intriguing sound of marine mammals - Peter Tyack (2010)</title>
+					<itunes:author>Peter Tyack</itunes:author>
+					<description>Peter Tyack of Woods Hole talks about a hidden wonder of the sea: underwater sound. Onstage at Mission Blue, he explains the amazing ways whales use sound and song to communicate across hundreds of miles of ocean.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/O9uvB4ilDSs" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Peter Tyack: The intriguing sound of marine mammals</itunes:subtitle>
+					<itunes:summary><![CDATA[Peter Tyack of Woods Hole talks about a hidden wonder of the sea: underwater sound. Onstage at Mission Blue, he explains the amazing ways whales use sound and song to communicate across hundreds of miles of ocean.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/PeterTyack_2010Z_480.mp4" length="279802787" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/O9uvB4ilDSs/886</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:886</guid>
+					<pubDate>Wed, 16 Jun 2010 08:53:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:21:20</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/PeterTyack_2010Z_480.mp4" fileSize="279802787" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/177909_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/177909_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/886</feedburner:origLink></item><item>
+					<title>Margaret Gould Stewart: How YouTube thinks about copyright - Margaret Gould Stewart (2010)</title>
+					<itunes:author>Margaret Gould Stewart</itunes:author>
+
+					<description>Margaret Gould Stewart, YouTube's head of user experience, talks about how the ubiquitous video site works with copyright holders and creators to foster (at the best of times) a creative ecosystem where everybody wins.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/3JVmcNs98QY" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Margaret Gould Stewart: How YouTube thinks about copyright</itunes:subtitle>
+					<itunes:summary><![CDATA[Margaret Gould Stewart, YouTube's head of user experience, talks about how the ubiquitous video site works with copyright holders and creators to foster (at the best of times) a creative ecosystem where everybody wins.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MargaretStewart_2010U_480.mp4" length="102359935" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/3JVmcNs98QY/885</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:885</guid>
+
+					<pubDate>Tue, 15 Jun 2010 08:40:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MargaretStewart_2010U_480.mp4" fileSize="102359935" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/177724_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/177724_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/885</feedburner:origLink></item><item>
+					<title>Michael Shermer: The pattern behind self-deception - Michael Shermer (2010)</title>
+					<itunes:author>Michael Shermer</itunes:author>
+					<description>Michael Shermer says the human tendency to believe strange things -- from alien abductions to dowsing rods -- boils down to two of the brain's most basic, hard-wired survival skills. He explains what they are, and how they get us into trouble.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/NFqFRleaE6A" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Michael Shermer: The pattern behind self-deception</itunes:subtitle>
+					<itunes:summary><![CDATA[Michael Shermer says the human tendency to believe strange things -- from alien abductions to dowsing rods -- boils down to two of the brain's most basic, hard-wired survival skills. He explains what they are, and how they get us into trouble.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MichaelShermer_2010_480.mp4" length="257057032" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/NFqFRleaE6A/884</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:884</guid>
+					<pubDate>Mon, 14 Jun 2010 09:23:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:01</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MichaelShermer_2010_480.mp4" fileSize="257057032" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/177163_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/177163_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/884</feedburner:origLink></item><item>
+
+					<title>David Byrne: How architecture helped music evolve - David Byrne (2010)</title>
+					<itunes:author>David Byrne</itunes:author>
+					<description>As his career grew, David Byrne went from playing CBGB to Carnegie Hall. He asks: Does the venue make the music? From outdoor drumming to Wagnerian operas to arena rock, he explores how context has pushed musical innovation.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/cNlL84FMa8E" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>David Byrne: How architecture helped music evolve</itunes:subtitle>
+					<itunes:summary><![CDATA[As his career grew, David Byrne went from playing CBGB to Carnegie Hall. He asks: Does the venue make the music? From outdoor drumming to Wagnerian operas to arena rock, he explores how context has pushed musical innovation.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DavidByrne_2010_480.mp4" length="309104462" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/cNlL84FMa8E/883</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:883</guid>
+					<pubDate>Fri, 11 Jun 2010 09:14:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:17:47</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DavidByrne_2010_480.mp4" fileSize="309104462" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/176929_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/176929_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/883</feedburner:origLink></item><item>
+					<title>Debate: Does the world need nuclear energy? - Stewart Brand / Mark Z. Jacobson (2010)</title>
+					<itunes:author>Stewart Brand / Mark Z. Jacobson</itunes:author>
+
+					<description>Nuclear power: the energy crisis has even die-hard environmentalists reconsidering it. In this first-ever TED debate, Stewart Brand and Mark Z. Jacobson square off over the pros and cons. A discussion that'll make you think -- and might even change your mind.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/0GJDgS1EJ0s" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Debate: Does the world need nuclear energy?</itunes:subtitle>
+					<itunes:summary><![CDATA[Nuclear power: the energy crisis has even die-hard environmentalists reconsidering it. In this first-ever TED debate, Stewart Brand and Mark Z. Jacobson square off over the pros and cons. A discussion that'll make you think -- and might even change your mind.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/NuclearDebate_2010_480.mp4" length="344017814" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/0GJDgS1EJ0s/881</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:881</guid>
+
+					<pubDate>Thu, 10 Jun 2010 09:25:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:22:59</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/NuclearDebate_2010_480.mp4" fileSize="344017814" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/176721_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/176721_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/881</feedburner:origLink></item><item>
+					<title>Rory Sutherland: Sweat the small stuff - Rory Sutherland (2010)</title>
+					<itunes:author>Rory Sutherland</itunes:author>
+					<description>It may seem that big problems require big solutions, but ad man Rory Sutherland says many flashy, expensive fixes are just obscuring better, simpler answers. To illustrate, he uses behavioral economics and hilarious examples.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/ambopF5zdyM" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Rory Sutherland: Sweat the small stuff</itunes:subtitle>
+					<itunes:summary><![CDATA[It may seem that big problems require big solutions, but ad man Rory Sutherland says many flashy, expensive fixes are just obscuring better, simpler answers. To illustrate, he uses behavioral economics and hilarious examples.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/RorySutherland_2010S_480.mp4" length="208715080" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/ambopF5zdyM/880</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:880</guid>
+					<pubDate>Wed, 09 Jun 2010 09:05:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:12:37</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/RorySutherland_2010S_480.mp4" fileSize="208715080" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/176498_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/176498_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/880</feedburner:origLink></item><item>
+
+					<title>John Kasaona: How poachers became caretakers - John Kasaona (2010)</title>
+					<itunes:author>John Kasaona</itunes:author>
+					<description>In his home of Namibia, John Kasaona is working on an innovative way to protect endangered animal species: giving nearby villagers (including former poachers) responsibility for caring for the animals. And it's working.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/rXdllcXveSM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>John Kasaona: How poachers became caretakers</itunes:subtitle>
+					<itunes:summary><![CDATA[In his home of Namibia, John Kasaona is working on an innovative way to protect endangered animal species: giving nearby villagers (including former poachers) responsibility for caring for the animals. And it's working.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JohnKasaona_2010_480.mp4" length="284552442" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/rXdllcXveSM/879</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:879</guid>
+					<pubDate>Tue, 08 Jun 2010 08:48:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:46</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JohnKasaona_2010_480.mp4" fileSize="284552442" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/175652_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/175652_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/879</feedburner:origLink></item><item>
+					<title>Michael Sandel: The lost art of democratic debate - Michael Sandel (2010)</title>
+					<itunes:author>Michael Sandel</itunes:author>
+
+					<description>Democracy thrives on civil debate, Michael Sandel  says -- but we're shamefully out of practice. He leads a fun refresher, with TEDsters sparring over a recent Supreme Court case (PGA Tour, Inc. v. Martin) whose outcome reveals the critical ingredient in justice.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/7rs0L_aEqXY" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Michael Sandel: The lost art of democratic debate</itunes:subtitle>
+					<itunes:summary><![CDATA[Democracy thrives on civil debate, Michael Sandel  says -- but we're shamefully out of practice. He leads a fun refresher, with TEDsters sparring over a recent Supreme Court case (PGA Tour, Inc. v. Martin) whose outcome reveals the critical ingredient in justice.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/MichaelSandel_2010_480.mp4" length="447985011" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/7rs0L_aEqXY/878</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:878</guid>
+
+					<pubDate>Mon, 07 Jun 2010 09:01:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:19:42</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/MichaelSandel_2010_480.mp4" fileSize="447985011" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/175650_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/175650_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/878</feedburner:origLink></item><item>
+					<title>Adam Sadowsky engineers a viral music video - Adam Sadowsky (2010)</title>
+					<itunes:author>Adam Sadowsky</itunes:author>
+					<description>The band "OK Go" dreamed up the idea of a massive Rube Goldberg machine for their next music video -- and Adam Sadowsky's team was charged with building it. He tells the story of the effort and engineering behind their labyrinthine creation that quickly became a YouTube sensation.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/1DkXHceRkr0" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Adam Sadowsky engineers a viral music video</itunes:subtitle>
+					<itunes:summary><![CDATA[The band "OK Go" dreamed up the idea of a massive Rube Goldberg machine for their next music video -- and Adam Sadowsky's team was charged with building it. He tells the story of the effort and engineering behind their labyrinthine creation that quickly became a YouTube sensation. ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/AdamSadowsky_2010X_480.mp4" length="173777447" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/1DkXHceRkr0/877</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:877</guid>
+					<pubDate>Fri, 04 Jun 2010 09:12:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:14:28</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/AdamSadowsky_2010X_480.mp4" fileSize="173777447" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/175544_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/175544_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/877</feedburner:origLink></item><item>
+
+					<title>Brian Cox: Why we need the explorers - Brian Cox (2010)</title>
+					<itunes:author>Brian Cox</itunes:author>
+					<description>In tough economic times, our exploratory science programs -- from space probes to the LHC -- are first to suffer budget cuts. Brian Cox explains how curiosity-driven science pays for itself, powering innovation and a profound appreciation of our existence.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/mkPALssmJJA" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Brian Cox: Why we need the explorers</itunes:subtitle>
+					<itunes:summary><![CDATA[In tough economic times, our exploratory science programs -- from space probes to the LHC -- are first to suffer budget cuts. Brian Cox explains how curiosity-driven science pays for itself, powering innovation and a profound appreciation of our existence.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/BrianCox_2010S_480.mp4" length="208328803" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/mkPALssmJJA/876</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:876</guid>
+					<pubDate>Thu, 03 Jun 2010 09:25:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:29</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/BrianCox_2010S_480.mp4" fileSize="208328803" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/175142_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/175142_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/876</feedburner:origLink></item><item>
+					<title>Christopher "moot" Poole: The case for anonymity online - Christopher "moot" Poole (2010)</title>
+					<itunes:author>Christopher "moot" Poole</itunes:author>
+
+					<description>The founder of 4chan, a controversial, uncensored online imageboard, describes its subculture, some of the Internet "memes" it has launched, and the incident in which its users managed a very public, precision hack of a mainstream media website. The talk raises questions about the power -- and price -- of anonymity.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/KDCQtieUKec" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Christopher "moot" Poole: The case for anonymity online</itunes:subtitle>
+					<itunes:summary><![CDATA[The founder of 4chan, a controversial, uncensored online imageboard, describes its subculture, some of the Internet "memes" it has launched, and the incident in which its users managed a very public, precision hack of a mainstream media website. The talk raises questions about the power -- and price -- of anonymity.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/ChristopherPoole_2010_480.mp4" length="182706551" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/KDCQtieUKec/874</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:874</guid>
+
+					<pubDate>Wed, 02 Jun 2010 08:29:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:13:10</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/ChristopherPoole_2010_480.mp4" fileSize="182706551" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/174869_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/174869_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/874</feedburner:origLink></item><item>
+					<title>Brian Skerry reveals ocean's glory -- and horror - Brian Skerry (2010)</title>
+					<itunes:author>Brian Skerry</itunes:author>
+					<description>Photographer Brian Skerry shoots life above and below the waves -- as he puts it, both the horror and the magic of the ocean. Sharing amazing, intimate shots of undersea creatures, he shows how powerful images can help make change.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/NWdshA28ZL8" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Brian Skerry reveals ocean's glory -- and horror</itunes:subtitle>
+					<itunes:summary><![CDATA[Photographer Brian Skerry shoots life above and below the waves -- as he puts it, both the horror and the magic of the ocean. Sharing amazing, intimate shots of undersea creatures, he shows how powerful images can help make change.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/BrianSkerry_2010Z_480.mp4" length="225244754" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/NWdshA28ZL8/873</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:873</guid>
+					<pubDate>Tue, 01 Jun 2010 21:36:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:13</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/BrianSkerry_2010Z_480.mp4" fileSize="225244754" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/174901_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/174901_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/873</feedburner:origLink></item><item>
+
+					<title>John Underkoffler points to the future of UI - John Underkoffler (2010)</title>
+					<itunes:author>John Underkoffler</itunes:author>
+					<description>Minority Report science adviser and inventor John Underkoffler demos g-speak -- the real-life version of the film's eye-popping, tai chi-meets-cyberspace computer interface. Is this how tomorrow's computers will be controlled?&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/VgnhCcvPpXI" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>John Underkoffler points to the future of UI</itunes:subtitle>
+					<itunes:summary><![CDATA[Minority Report science adviser and inventor John Underkoffler demos g-speak -- the real-life version of the film's eye-popping, tai chi-meets-cyberspace computer interface. Is this how tomorrow's computers will be controlled?]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JohnUnderkoffler_2010_480.mp4" length="328168279" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/VgnhCcvPpXI/872</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:872</guid>
+					<pubDate>Tue, 01 Jun 2010 08:40:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:22</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JohnUnderkoffler_2010_480.mp4" fileSize="328168279" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/174124_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/174124_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/872</feedburner:origLink></item><item>
+					<title>Lawrence Lessig: Re-examining the remix - Larry Lessig (2010)</title>
+					<itunes:author>Larry Lessig</itunes:author>
+
+					<description>At TEDxNYED, former "young Republican" Larry Lessig talks about what Democrats can learn about copyright from their opposite party, considered more conservative. A surprising lens on remix culture.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/GKkSowyrltg" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Lawrence Lessig: Re-examining the remix</itunes:subtitle>
+					<itunes:summary><![CDATA[At TEDxNYED, former "young Republican" Larry Lessig talks about what Democrats can learn about copyright from their opposite party, considered more conservative. A surprising lens on remix culture. ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/LawrenceLessig_2010X_480.mp4" length="289094556" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/GKkSowyrltg/871</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:871</guid>
+
+					<pubDate>Mon, 31 May 2010 11:13:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/LawrenceLessig_2010X_480.mp4" fileSize="289094556" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/174123_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/174123_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/871</feedburner:origLink></item><item>
+					<title>Sophie Hunger plays songs of secrets, city lights - Sophie Hunger (2009)</title>
+					<itunes:author>Sophie Hunger</itunes:author>
+					<description>This haunting, intimate performance by European singer-songwriter Sophie Hunger features songs from her breakout debut "Monday's Ghost" and the just-released album "1983."&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/2js3G_bsnLc" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Sophie Hunger plays songs of secrets, city lights</itunes:subtitle>
+					<itunes:summary><![CDATA[This haunting, intimate performance by European singer-songwriter Sophie Hunger features songs from her breakout debut "Monday's Ghost" and the just-released album "1983."]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SophieHunger_2009G_480.mp4" length="296044589" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/2js3G_bsnLc/870</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:870</guid>
+					<pubDate>Fri, 28 May 2010 09:21:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:23:04</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SophieHunger_2009G_480.mp4" fileSize="296044589" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/173895_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/173895_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/870</feedburner:origLink></item><item>
+
+					<title>Seth Berkley: HIV and flu -- the vaccine strategy - Seth Berkley (2010)</title>
+					<itunes:author>Seth Berkley</itunes:author>
+					<description>Seth Berkley explains how smart advances in vaccine design, production and distribution are bringing us closer than ever to eliminating a host of global threats -- from AIDS to malaria to flu pandemics.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/0OJfHD5o-48" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Seth Berkley: HIV and flu -- the vaccine strategy</itunes:subtitle>
+					<itunes:summary><![CDATA[Seth Berkley explains how smart advances in vaccine design, production and distribution are bringing us closer than ever to eliminating a host of global threats -- from AIDS to malaria to flu pandemics. ]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SethBerkley_2010_480.mp4" length="386366736" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/0OJfHD5o-48/869</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:869</guid>
+					<pubDate>Thu, 27 May 2010 09:32:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:21:05</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SethBerkley_2010_480.mp4" fileSize="386366736" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/173671_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/173671_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/869</feedburner:origLink></item><item>
+					<title>Sharmeen Obaid-Chinoy: Inside a school for suicide bombers - Sharmeen Obaid-Chinoy (2010)</title>
+					<itunes:author>Sharmeen Obaid-Chinoy</itunes:author>
+
+					<description>Filmmaker Sharmeen Obaid-Chinoy takes on a terrifying question: How does the Taliban convince children to become suicide bombers? Propaganda footage from a training camp is intercut with her interviews of young camp graduates. A shocking vision.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/2wx8-P0IhHU" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Sharmeen Obaid-Chinoy: Inside a school for suicide bombers</itunes:subtitle>
+					<itunes:summary><![CDATA[Filmmaker Sharmeen Obaid-Chinoy takes on a terrifying question: How does the Taliban convince children to become suicide bombers? Propaganda footage from a training camp is intercut with her interviews of young camp graduates. A shocking vision.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SharmeenObaidChinoy_2010U_480.mp4" length="120905429" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/2wx8-P0IhHU/868</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:868</guid>
+
+					<pubDate>Wed, 26 May 2010 09:26:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:08:09</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SharmeenObaidChinoy_2010U_480.mp4" fileSize="120905429" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/173373_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/173373_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/868</feedburner:origLink></item><item>
+					<title>Johanna Blakley: Lessons from fashion's free culture - Johanna Blakley (2010)</title>
+					<itunes:author>Johanna Blakley</itunes:author>
+					<description>Copyright law's grip on film, music and software barely touches the fashion industry ... and fashion benefits in both innovation and sales, says Johanna Blakley. At TEDxUSC 2010, she talks about what all creative industries can learn from fashion's free culture.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/lQgjpUDpjH0" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Johanna Blakley: Lessons from fashion's free culture</itunes:subtitle>
+					<itunes:summary><![CDATA[Copyright law's grip on film, music and software barely touches the fashion industry ... and fashion benefits in both innovation and sales, says Johanna Blakley. At TEDxUSC 2010, she talks about what all creative industries can learn from fashion's free culture.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/JohannaBlakley_2009X_480.mp4" length="226604121" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/lQgjpUDpjH0/866</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:866</guid>
+					<pubDate>Tue, 25 May 2010 07:53:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:36</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/JohannaBlakley_2009X_480.mp4" fileSize="226604121" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/172157_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/172157_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/866</feedburner:origLink></item><item>
+
+					<title>Sir Ken Robinson: Bring on the learning revolution! - Ken Robinson (2010)</title>
+					<itunes:author>Ken Robinson</itunes:author>
+					<description>In this poignant, funny follow-up to his fabled 2006 talk, Sir Ken Robinson makes the case for a radical shift from standardized schools to personalized learning -- creating conditions where kids' natural talents can flourish.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/GMGbElzAa-A" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Sir Ken Robinson: Bring on the learning revolution!</itunes:subtitle>
+					<itunes:summary><![CDATA[In this poignant, funny follow-up to his fabled 2006 talk, Sir Ken Robinson makes the case for a radical shift from standardized schools to personalized learning -- creating conditions where kids' natural talents can flourish.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/SirKenRobinson_2010_480.mp4" length="394121332" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/GMGbElzAa-A/865</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:865</guid>
+					<pubDate>Mon, 24 May 2010 09:06:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:16:48</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/SirKenRobinson_2010_480.mp4" fileSize="394121332" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/172559_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/172559_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/865</feedburner:origLink></item><item>
+					<title>Craig Venter unveils "synthetic life" - Craig Venter / Craig Venter (2010)</title>
+					<itunes:author>Craig Venter / Craig Venter</itunes:author>
+
+					<description>Craig Venter and team make a historic announcement: they've created the first fully functioning, reproducing cell controlled by synthetic DNA. He explains how they did it and why the achievement marks the beginning of a new era for science.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/5ZVfLyl-sKU" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Craig Venter unveils "synthetic life"</itunes:subtitle>
+					<itunes:summary><![CDATA[Craig Venter and team make a historic announcement: they've created the first fully functioning, reproducing cell controlled by synthetic DNA. He explains how they did it and why the achievement marks the beginning of a new era for science.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/CraigVenter_2010P_480.mp4" length="365" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/5ZVfLyl-sKU/863</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:863</guid>
+
+					<pubDate>Fri, 21 May 2010 09:13:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:18:17</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/CraigVenter_2010P_480.mp4" fileSize="365" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/172485_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/172485_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/863</feedburner:origLink></item><item>
+					<title>Richard Sears: Planning for the end of oil - Richard Sears (2010)</title>
+					<itunes:author>Richard Sears</itunes:author>
+					<description>As the world's attention focuses on the perils of oil exploration, we present Richard Sears' talk from early February 2010. Sears, an expert in developing new energy resources, talks about our inevitable and necessary move away from oil. Toward ... what?&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/Rh-P6vSyvtQ" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>Richard Sears: Planning for the end of oil</itunes:subtitle>
+					<itunes:summary><![CDATA[As the world's attention focuses on the perils of oil exploration, we present Richard Sears' talk from early February 2010. Sears, an expert in developing new energy resources, talks about our inevitable and necessary move away from oil. Toward ... what?]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/RichardSears_2010U_480.mp4" length="101846464" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/Rh-P6vSyvtQ/862</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:862</guid>
+					<pubDate>Thu, 20 May 2010 10:53:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:09:48</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/RichardSears_2010U_480.mp4" fileSize="101846464" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/172159_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/172159_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/862</feedburner:origLink></item><item>
+
+					<title>Dee Boersma: Pay attention to penguins - Dee Boersma (2010)</title>
+					<itunes:author>Dee Boersma</itunes:author>
+					<description>Think of penguins as ocean sentinels, says Dee Boersma -- they're on the frontlines of sea change. Sharing stories of penguin life and culture, she suggests that we start listening to what penguins are telling us.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/dCecFv4Yibo" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Dee Boersma: Pay attention to penguins</itunes:subtitle>
+					<itunes:summary><![CDATA[Think of penguins as ocean sentinels, says Dee Boersma -- they're on the frontlines of sea change. Sharing stories of penguin life and culture, she suggests that we start listening to what penguins are telling us.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/DeeBoersma_2010Z_480.mp4" length="221624789" />
+
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/dCecFv4Yibo/861</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:861</guid>
+					<pubDate>Wed, 19 May 2010 08:46:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:15:09</itunes:duration>
+
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/DeeBoersma_2010Z_480.mp4" fileSize="221624789" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/171658_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/171658_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/861</feedburner:origLink></item><item>
+					<title>Graham Hill: Why I'm a weekday vegetarian - Graham Hill (2010)</title>
+					<itunes:author>Graham Hill</itunes:author>
+
+					<description>We all know the arguments that being vegetarian is better for the environment and for the animals -- but in a carnivorous culture, it can be hard to make the change. Graham Hill has a powerful, pragmatic suggestion: Be a weekday veg.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/jQLiFiFsqoM" height="1" width="1"/&gt;</description>
+					<itunes:subtitle>Graham Hill: Why I'm a weekday vegetarian</itunes:subtitle>
+					<itunes:summary><![CDATA[We all know the arguments that being vegetarian is better for the environment and for the animals -- but in a carnivorous culture, it can be hard to make the change. Graham Hill has a powerful, pragmatic suggestion: Be a weekday veg.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/GrahamHill_2010_480.mp4" length="126067965" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/jQLiFiFsqoM/860</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:860</guid>
+
+					<pubDate>Tue, 18 May 2010 07:45:00 -0500</pubDate>
+					<category>Higher Education</category>
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:05:45</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/GrahamHill_2010_480.mp4" fileSize="126067965" type="video/mp4" />
+
+					<media:thumbnail url="http://images.ted.com/images/ted/171772_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/171772_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/860</feedburner:origLink></item><item>
+					<title>William Li: Can we eat to starve cancer? - William Li (2010)</title>
+					<itunes:author>William Li</itunes:author>
+					<description>William Li presents a new way to think about treating cancer and other diseases: anti-angiogenesis, preventing the growth of blood vessels that feed a tumor. The crucial first (and best) step: Eating cancer-fighting foods that cut off the supply lines and beat cancer at its own game.&lt;img src="http://feeds.feedburner.com/~r/TedtalksHD/~4/H9YSCrUgcMM" height="1" width="1"/&gt;</description>
+
+					<itunes:subtitle>William Li: Can we eat to starve cancer?</itunes:subtitle>
+					<itunes:summary><![CDATA[William Li presents a new way to think about treating cancer and other diseases: anti-angiogenesis, preventing the growth of blood vessels that feed a tumor. The crucial first (and best) step: Eating cancer-fighting foods that cut off the supply lines and beat cancer at its own game.]]></itunes:summary>
+					<enclosure type="video/mp4" url="http://video.ted.com/talks/podcast/WilliamLi_2010_480.mp4" length="313905573" />
+					<link>http://feedproxy.google.com/~r/TedtalksHD/~3/H9YSCrUgcMM/859</link>
+					<guid isPermaLink="false">eng.hd.talk.ted.com:859</guid>
+					<pubDate>Mon, 17 May 2010 08:29:00 -0500</pubDate>
+					<category>Higher Education</category>
+
+					<itunes:explicit>no</itunes:explicit>
+					<itunes:duration>00:20:02</itunes:duration>
+					<itunes:keywords>TED</itunes:keywords>
+					<media:content url="http://video.ted.com/talks/podcast/WilliamLi_2010_480.mp4" fileSize="313905573" type="video/mp4" />
+					<media:thumbnail url="http://images.ted.com/images/ted/170971_132x99.jpg" width="132" height="99" />
+					<itunes:image url="http://images.ted.com/images/ted/170971_615x461.jpg" />
+					<feedburner:origLink>http://www.ted.com/talks/view/id/859</feedburner:origLink></item><media:credit role="author">TED</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Each year, the TED (Technology, Entertainment, Design) conference hosts some of the world's most fascinating people: Trusted voices and convention-breaking mavericks, icons and geniuses. These podcasts (also available in audio format) capture the most ext</media:description></channel></rss>
+

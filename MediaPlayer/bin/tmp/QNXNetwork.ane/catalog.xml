@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.5.0" build="20967" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="qnx/net/NetworkManager" mod="1340395113352" signatureChecksum="4129469505" >
+        <def id="qnx.net:NetworkManager" /> 
+        <dep id="qnx.net:NetworkStats" type="e" /> 
+        <dep id="qnx.net:NetworkType" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="qnx.net:NetworkStats" type="s" /> 
+        <dep id="flash.net:NetworkInterface" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_eef6f3acec7ec8f661d4fb103f73268f459e2de5ee6418dc0b3d9e87911c4b03_flash_display_Sprite" mod="1354492657882" signatureChecksum="3977608249" >
+        <def id="_eef6f3acec7ec8f661d4fb103f73268f459e2de5ee6418dc0b3d9e87911c4b03_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="qnx/net/NetworkType" mod="1340395113352" signatureChecksum="2732550641" >
+        <def id="qnx.net:NetworkType" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="qnx/net/NetworkStats" mod="1340395113352" signatureChecksum="2355846415" >
+        <def id="qnx.net:NetworkStats" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="c99b5f596acb32921e34b5370870fbe45dd7e79dfc9762a541692f497f7b59df"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
